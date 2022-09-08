@@ -88,6 +88,7 @@ The Ecosystem token fund exists to develop and evolve the Obscuro ecosystem over
 | Incentive programs and competitions | 20           | 38,340,000        | over 4 years from Mainnet launch           |
 | Marketing                           | 17           | 32,640,000        | over 4 years from Mainnet launch - 1 month |
 | Application builders                | 3            | 5,760,000         | over 0.5 years from TGE                    |
+| Contingency                         | 20           | 38,400,000        |                                            |
 
 ### Investors and Core Team
 Providing investors and the Core Team with the opportunity to participate in the Obscuro network is an important part of their contribution to the wider Obscuro ecosystem. Token allocations to these groups encourage continued engagement, interest and contributions. Additionally, application builder engagement in Obscuro is a top priority and nurturing deep engagements with partners who can contribute to Obscuro in a very meaningful way is vital. By encouraging investors to remain actively engaged will help open doors to high quality applications within their portfolio of companies and encourage their migration to Obscuro.
