@@ -1,4 +1,4 @@
-# Obscuro Tokenomics
+# Obscuro Tokenomics - DRAFT
 
 ## Introduction
 A token economy is non-trivial and continues to be an area of much research and debate in the Ethereum community. This proposal document is just that, a proposal which is intended to deliver a viable starting point for an Obscuro token economy. The economic model is expected to evolve over the lifetime of Obscuro via governance proposals.
