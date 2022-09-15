@@ -111,12 +111,12 @@ _This section is normative_
 | Public Sale              | 26,000,000     | Time            | 50% at TGE then daily linear unlock for 1 year                                    |
 | Foundation Fund          | 262,000,000    | Time            | 21% at TGE then daily linear unlock for 5 years                                   |
 | Ecosystem Fund           | 192,000,000    | Time            | Daily linear unlock for 4.5 years                                                 |
-| Pre-Seed Investor        | 230,000,000    | Time            | 12 month cliff then initial 5% unlock followed by daily linear unlock for 3 years |
-| Seed Investors           | 90,000,000     | Time            | 6 month cliff then initial 5% unlock followed by daily linear unlock for 2 years  |
+| Pre-Seed Investor        | 230,000,000    | Time            | 15% unlock at TGE then 12 month cliff followed by daily linear unlock for 3 years |
+| Seed Investors           | 90,000,000     | Time            | 15% unlock at TGE then 6 month cliff followed by daily linear unlock for 18 months|
 | Core Team                | 180,000,000    | Milestone       | 12 month cliff then daily linear unlock for 3 years from Obscuro Mainnet launch   |
 
 <p align="center" width="100%">
-    <img width="100%" src="./assets/Unlock-Chart.png">
+    <img width="100%" src="./assets/Unlock-Chart_0-14-0.png">
 </p>
 
 ## Token Pricing and Yield
