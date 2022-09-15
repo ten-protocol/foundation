@@ -116,7 +116,7 @@ _This section is normative_
 | Core Team                | 180,000,000    | Milestone       | 12 month cliff then daily linear unlock for 3 years from Obscuro Mainnet launch   |
 
 <p align="center" width="100%">
-    <img width="100%" src="./assets/Unlock-Chart_0-14-0.png">
+    <img width="100%" src="./assets/Unlock-Chart-0-14-0.png">
 </p>
 
 ## Token Pricing and Yield
