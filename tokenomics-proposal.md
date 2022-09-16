@@ -26,19 +26,20 @@ There is an occasion where tokens are slashed although this is expected to be ve
 |-----------------------|----------------|------------|
 | Contributor Whitelist | 20,000,000     | 2%         |
 | Public Sale           | 26,000,000     | 2.6%       |
-| Foundation Fund       | 262,000,000    | 26.2%      |
+| Foundation Fund       | 238,000,000    | 23.8%      |
 | Ecosystem Fund        | 192,000,000    | 19.2%      |
 | Pre-Seed Investor*    | 230,000,000    | 23%        |
 | Seed Investors        | 90,000,000     | 9%         |
 | Core Team             | 180,000,000    | 18%        |
+| Service Providers     | 24,000,000     | 2.4%       |
 
 * Pre-seed investor has rights to 23% of token allocation at each token issuance.
 
 ### Token Staking and Delegated Staking
 Aggregator nodes must stake OBX when they initially join Obscuro Mainnet as a means for the node operator to demonstrate their intention to maintain privacy, ledger integrity and not attempt to disrupt the safety of the network. The stake is intentionally set at a high value so the loss of stake is material to the operator. 
 The number of tokens required to stake will be reviewed and set by the Obscuro DAO as the Obscuro Mainnet total value locked (TVL) increases. Increasing the minimum stake as TVL increases continues to economically disincentivise would-be malicious actors from disrupting the network as the theoretical gain from a malicious event becomes more attractive. Locked tokens can be staked. The size of an Aggregator node’s stake influences the probability of that node winning the lottery for the rollup submission round. 
-Delegated staking is also available to allow others without access to large amounts of OBX to participate in Obscuro Mainnet. Delegated staking is available across Aggregator nodes but not available for Verifier nodes because there is not a staking requirement for Verifier nodes to join the Obscuro network. Delegates are in a position to take a proportion of the rollup reward issued to the Aggregator node that wins the rollup submission lottery. Delegates are free to choose which Aggregator node they contribute a stake for, this being an incentive for Aggregator node operators to provide healthy nodes with good uptime, performance and reliability guarantees. This contributes to the good health of the overall Obscuro network. The Obscuro DAO monitors the Obscuro network checking for clustering of stakes and a skew towards centralisation from decentralisation in which case additional measures could be proposed to maintain an appropriate degree of decentralisation.
-The diagram below summarises the different types of staking and the distribution of delegated stakes.
+Delegated staking could also be made available to allow others without access to large amounts of OBX to participate in Obscuro Mainnet. Delegated staking could be available across Aggregator nodes but not available for Verifier nodes because there is not a staking requirement for Verifier nodes to join the Obscuro network. Delegates could be in a position to take a proportion of the rollup reward issued to the Aggregator node that wins the rollup submission lottery. Delegates might be free to choose which Aggregator node they contribute a stake for, this being an incentive for Aggregator node operators to provide healthy nodes with good uptime, performance and reliability guarantees. This would contribute to the good health of the overall Obscuro network. The Obscuro DAO could monitor the Obscuro network checking for clustering of stakes and a skew towards centralisation from decentralisation in which case additional measures could be proposed to maintain an appropriate degree of decentralisation. Ultimately it is a decision of the Obscuro community how delegated staking does, or does not, get implemented.
+The diagram below summarises the different types of staking and the potential distribution of delegated stakes.
 
 <p align="left" width="100%">
     <img width="75%" src="./assets/Delegated-Staking.png">
@@ -93,6 +94,9 @@ The Ecosystem token fund exists to develop and evolve the Obscuro ecosystem over
 ### Investors and Core Team
 Providing investors and the Core Team with the opportunity to participate in the Obscuro network is an important part of their contribution to the wider Obscuro ecosystem. Token allocations to these groups encourage continued engagement, interest and contributions. Additionally, application builder engagement in Obscuro is a top priority and nurturing deep engagements with partners who can contribute to Obscuro in a very meaningful way is vital. By encouraging investors to remain actively engaged will help open doors to high quality applications within their portfolio of companies and encourage their migration to Obscuro.
 
+### Service Providers
+Third party service providers who contribute to and participate in the Obscuro project are allocated a number of tokens in return for services rendered.
+
 ## Token Unlocking
 _This section is non-normative_
 
@@ -109,17 +113,18 @@ _This section is normative_
 |--------------------------|----------------|-----------------|-----------------------------------------------------------------------------------|
 | Contributor Whitelist    | 20,000,000     | Milestone       | Daily linear unlock for 600 days from Obscuro Mainnet launch                      |
 | Public Sale              | 26,000,000     | Time            | 50% at TGE then daily linear unlock for 1 year                                    |
-| Foundation Fund          | 262,000,000    | Time            | 21% at TGE then daily linear unlock for 5 years                                   |
+| Foundation Fund          | 238,000,000    | Time            | 21% at TGE then daily linear unlock for 5 years                                   |
 | Ecosystem Fund           | 192,000,000    | Time            | Daily linear unlock for 4.5 years                                                 |
 | Pre-Seed Investor        | 230,000,000    | Time            | 15% unlock at TGE then 12 month cliff followed by daily linear unlock for 3 years |
 | Seed Investors           | 90,000,000     | Time            | 15% unlock at TGE then 6 month cliff followed by daily linear unlock for 18 months|
 | Core Team                | 180,000,000    | Milestone       | 12 month cliff then daily linear unlock for 3 years from Obscuro Mainnet launch   |
+| Service Providers        | 24,000,000     | Time            | 12 month cliff then daily linear unlock for 1 year                                |
 
 <p align="center" width="100%">
     <img width="100%" src="./assets/Unlock-Chart-0-14-0.png">
 </p>
 
-## Token Pricing and Yield
+## Token Pricing
 _This section is non-normative_
 
 ### Initial Token Price
