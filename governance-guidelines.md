@@ -107,7 +107,7 @@ Any change to the structure of the Foundation is a constitutional change, descri
 ============================
 
 1. The Obscuro Network and Protocol are governed in a decentralised manner by the community.
-2. The community will make decisions and implement change according to the Governance Event rules set out in section 5, by putting forward and voting on proposals.
+2. The community will make decisions and implement change according to the Governance Proposal rules set out in section 5, by putting forward and voting on proposals.
 3. There will be a threshold of voting participation, set out in section 6, which will permit voting on proposals. Voting will be on the basis of one eligible member, one vote, i.e. if utility token holding is used as a measure of participation, then voting power will not be proportional to the number of tokens held.
 
 4. Governing Board
@@ -153,7 +153,7 @@ Participants shall be directed to vote to ensure that the Board is composed of D
 ### 4.5.3 Diversity Objectives
 The Foundation believes that a broad respresentation of Participants will result in higher-quality decision-making, and wider global adoption of the Network. To promote diversity, the following guidelines are adopted, in particular for steady-state governance (recognising that it may not be possible to fulfil these during any transition period):
 
-* No corporate group of participants may have more than one Director. In the event of votes for two different candidates representing the same overall corporate group, the candidate with the most votes shall be considered.
+* No corporate group of participants may have more than one Director. In the case of votes for two different candidates representing the same overall corporate group, the candidate with the most votes shall be considered.
 * Of the nine Directors, there should not be more than four Directors from any broad classification, based on a model of {infrastructure provider, application developer, end user, academic, market maker, exchange}.
 * Of the nine Directors, there should not be more than four Directors from any continent, based on a model of {North America, South America, Europe, Asia/Australasia}, to ensure geographic diversity. 
 
@@ -182,7 +182,7 @@ diversity criteria in section 4.3.3, the candidate will be allocated to it. This
 popular candidate fills a seat instead of a more popular one.
 #### 4.5.4.4 Removal from the Board and Re-election.
 Apart from the three-year expiry, Directors can otherwise leave the Board by resignation, prolonged non-attendance of 
-board meetings of more than six months, death, or if necessary, removal by a Mandatory Governance Event. In any case, a 
+board meetings of more than six months, death, or if necessary, removal by a Mandatory Governance Proposal. In any case, a 
 vacant seat will be contested at the next annual election.
 
 4.6	Conduct of Board Meetings
@@ -191,34 +191,34 @@ Attendance may be in person or by video-conference.
 
 The Board shall meet not less than every six months, and may meet on the request of any Director, but not more than every  month. At least one week’s notice shall be given to Directors. By exception, the Chair may convene an emergency meeting with minimal notice, appropriate to the situation in the Chair's judgement. 
 
-The Board shall ratify all Governance Events approved by the Participant voting process since the previous meeting.
+The Board shall ratify all Governance Proposals approved by the Participant voting process since the previous meeting.
 
 Board meetings shall be limited to the Board Directors, and shall follow the requirements for quorum and voting outlined in these guidelines. 
 
 The Board meetings shall be conducted in private, but in the interest of transparency, public minutes shall be published within one week following their approval by the Board.
 
-5	Governance Events
+5	Governance Proposals
 =====================
 
-All formal changes to the Network and the Foundation shall be controlled through a formal Governance Event process, and the right to initiate this shall be held by all Participants. In the event of disruptive behaviour by an individual Participant or group of Participants, this right may be curtailed, as described in 5.2.5.
+All formal changes to the Network and the Foundation shall be controlled through a formal Governance Proposal process, and the right to initiate this shall be held by all Participants. In the case of disruptive behaviour by an individual Participant or group of Participants, this right may be curtailed, as described in 5.2.5.
 
-5.1	Types of Governance Events
+5.1	Types of Governance Proposals
 ------------------------------
-There are three types of change that affect the Network and the Foundation, which require a controlled change process and a vote described in 5.5, and are defined as Governance Events:
+There are three types of change that affect the Network and the Foundation, which require a controlled change process and a vote described in 5.5, and are defined as Governance Proposals:
 
-1. All changes to the Stichting Articles of Association and By-laws are defined as Constitutional Governance Events.
+1. All changes to the Stichting Articles of Association and By-laws are defined as Constitutional Governance Proposals.
 2. All changes to Network participation criteria, charges, budgets, change management process and other business areas not 
-defined in Articles of Association or By-laws are defined as Business Governance Events in section 5.2. 
+defined in Articles of Association or By-laws are defined as Business Governance Proposals in section 5.2. 
 3. All changes to technical parameters and notary criteria, which affect the nodes of participants, are defined as 
-Technical Governance Events in section 5.3. 
+Technical Governance Proposals in section 5.3. 
 
-Any changes in the day to day internal implementation of network services by any Operator(s) appointed by the Foundation, which do not impact the wider network, are out of scope as Governance Events. 
+Any changes in the day to day internal implementation of network services by any Operator(s) appointed by the Foundation, which do not impact the wider network, are out of scope as Governance Proposals. 
 
-All Constitutional, Business and Technical Governance Events shall be supported by a formal proposal, using standard structured documents and containing all relevant background information, to create an efficient process for the submitter, the Participants for voting, and the Board for ratification. 
+All Constitutional, Business and Technical Governance Proposals shall be supported by a formal proposal, using standard structured documents and containing all relevant background information, to create an efficient process for the submitter, the Participants for voting, and the Board for ratification. 
 
-For all Governance Events, decisions and the rationale for the decision shall be published transparently. 
+For all Governance Proposals, decisions and the rationale for the decision shall be published transparently. 
 
-5.2	Business Governance Events
+5.2	Business Governance Proposals
 -------------------------------
 ### 5.2.1 Access Standards
 The Obscuro system can be accessed by using software which implements the set of technical protocols which define compatibility (see 5.3.1) above). The reference implementation of this software is open source and freely accessible at [www.obscu.ro](https://www.obscu.ro).
@@ -231,95 +231,68 @@ The Board shall annually prepare and approve a budget for the operations of the 
 The Operator shall charge the Foundation for services that the Operator provides under the requirements of the contract with the Foundation, including management of Participants, Network participation and access services, and sequencer services.
 
 #### 5.2.3 Change of Operator(s) and Protocol Developer(s)
-For one year upon establishment of the Foundation, Obscuro Limited will undertake the role of Operator and Protocol Developer. Annually thereafter, the Participants will propose and vote on the appointment of the Operator, which may be changed with a Mandatory Governance Event and vote. 
+For one year upon establishment of the Foundation, Obscuro Limited will undertake the role of Operator and Protocol Developer. Annually thereafter, the Participants will propose and vote on the appointment of these roles, which may be changed with a Mandatory Governance Proposal and vote. 
 Any Operator must enter into an escrow arrangement upon appointment, so that existing cryptographic material continues to be available and there is no disruption to Participants if the Operator is changed.
 
 #### 5.2.4 Change Management Process
 The Network will periodically require participating nodes to implement change. A change notification and management 
 process shall be defined and communicated; and any change to the change management process shall be the subject of a 
-Mandatory Governance Event.
+Mandatory Governance Proposal.
 
-#### 5.2.5 Other Mandatory Governance Events
-Restrictions on individual Participants or a group to initiate Governance Events; in the event of disruptive behaviour.
+#### 5.2.5 Other Mandatory Governance Proposals
+Restrictions on individual Participants or a group to initiate Governance Proposals; in the event of disruptive behaviour.
 
 Audit: the Board may request an audit of the activities and services provided by the Operator, no more frequently than 
-every year, unless an emergency audit is authorised through a Mandatory Governance Event.
+every year, unless an emergency audit is authorised through a Mandatory Governance Proposal.
 
 Marketing, Trademark and Branding: Obscuro Limited shall commit to license the Obscuro trademark to the Foundation. The Foundation shall manage its own brand and any trademarks created.
 
 Certifications: Where the Foundation provides standards for certification of organisations, individuals or technologies, 
 the Board shall approve the standards and processes for certification.
 
-Change to the arbitration and dispute resolution process shall be the subject of a Mandatory Governance Event.
+Change to the arbitration and dispute resolution process shall be the subject of a Mandatory Governance Proposal.
 
 Policies covering areas of operation not covered by the Constitution (e.g. code of conduct for Board Directors).
 
-5.3	Technical Governance Events
+5.3	Technical Governance Proposals
 ------------------------------
 #### 5.3.1	Technical Standards
-There is a set of technical standards, such as ‘network parameters’, which all Obscuro Network nodes need to comply with 
-in order to guarantee technical compatibility to other nodes and services within the Network. While Obscuro has stability 
-and backwards compatibility as key design goals, there may be circumstances under which these standards will need to 
-change. Where these changes require participants in the Network to update to remain compatible, these changes will be 
-subject to Governance Events. 
+There is a set of technical standards, such as ‘network parameters’, which all Obscuro Network nodes need to comply with in order to guarantee technical compatibility to other nodes and services within the Network. While Obscuro has stability and backwards compatibility as key design goals, there may be circumstances under which these standards will need to change. Where these changes require participants in the Network to update to remain compatible, these changes will be subject to Governance Proposals. 
 
-Changes to technical standards, such as some network parameters, shall require formal design processes, and the Operator may 
-choose to delegate technical due diligence to the Technical Advisory Committee prior to formally accepting a change to 
-the technical standards.
+Changes to technical standards, such as some network parameters, shall require formal design processes, and the Protocol Developer may choose to undertake technical due diligence with Participants prior to formally delivering a change to the technical standards.
 
-The Obscuro open source software is the reference implementation for the core technical standards adopted for the Network. 
-Obscuro implementations and distributions can vary in their internal details, but their core interfaces and Obscuro protocol 
-implementation must conform to this standard to be compatible with the Network. 
+The Obscuro open source software is the reference implementation for the core technical standards adopted for the Network. Obscuro implementations and distributions can vary in their internal details, but their core interfaces and Obscuro protocol implementation must conform to this standard to be compatible with the Network. 
 
 #### 5.3.2	Consensus Standards
-The Foundation shall set minimum standards for notary clusters, to allow their use across different business 
-applications. The Operator shall ensure that standards are followed by notary service providers, and shall operate a 
-framework of audit and assessment, review, feedback, and certification, covering the following:
-
-1. Technical standards, such as meeting strict requirements for high-availability and data replication/security and 
-performance. 
-2. Compliance with necessary laws and regulations (for example privacy and data retention regulations) in the 
-jurisdictions in which they operate. 
-3. Availability for independent audits upon request by the Board.
-
-Additionally, the Operator shall manage a reference distributed notary service for the Network, using a Board-approved 
-crash or Byzantine fault tolerant (BFT) consensus algorithm, with nodes provided by a minimum number of identified and 
-independent entities. 
+The Foundation shall set minimum standards for aggregator nodes, to allow their use for different applications. 
 
 #### 5.3.3	Dispute Resolution Process
 Disputes between Participants arising from the operation of a Obscuro application are anticipated to be resolved by the 
-business network operator, or directly if no business network is involved. If necessary, Participants may escalate to 
-the Board by creating an Advisory Governance Event.
+application developer and its community. If necessary, Participants may escalate to the Foundation by creating a Technical Governance Proposal.
 
-5.4	Emergency Governance Events
+5.4	Emergency Governance Proposals
 -------------------------------
-Certain Network incidents, which could impact one or more Network participants and that would be the subject of 
-Mandatory or Advisory Governance Events, shall require immediate resolution. In these cases, the Operator may make 
-emergency changes, but these shall be subject to post-event evaluation and standard Governance Event processing. Areas 
-of control that are the subject of Mandatory Governance Events are not expected to require emergency remediation, but 
-the Operator shall be entitled to make emergency changes to preserve the stability and integrity of the Network.
+Certain Network incidents, which could impact one or more Network participants and that would be the subject of Business or Technical Governance Proposals, shall require immediate resolution. In these cases, the Operator(s) and Protocol Developer(s) may make emergency changes to preserve the stability and integrity of the Network, but these shall be subject to post-event evaluation and standard Governance Proposal processing. Areas of control that are the subject of Business Governance Proposals are not expected to require emergency remediation.
 
 5.5	Voting
 ----------
-All Constitutional, Mandatory and Advisory Governance Events outlined in sections 5.2 and 5.3 shall be presented to the 
-Board for voting. The representatives of the Board shall vote on a one vote per Director basis to approve or reject the 
-Governance Event.
-
-Quorum for the Board shall require two thirds of the Directors to vote. Abstention is not a vote. The Board may continue 
-to meet if quorum is not met, but shall be prevented from making any decisions at the meeting. Decisions by electronic 
+All Constitutional, Mandatory and Advisory Governance Proposals outlined in sections 5.2 and 5.3 shall be presented to the Participants for voting. The Participants shall vote on a one vote per person basis to approve or reject the Governance Proposal. 
+Quorum shall require two thirds of the Participants to vote. Abstention is not a vote. The Board may continue to meet if quorum is not met, but shall be prevented from making any decisions at the meeting. Decisions by electronic 
 vote without a meeting shall require a vote by two thirds majority of all Directors.
 
-Provided quorum is met, Constitutional Governance Events shall require a three quarters majority vote, and Mandatory 
-Governance Events shall require a two thirds majority vote.
+Provided quorum is met, Constitutional Governance Proposals shall require a three quarters majority vote, and Mandatory 
+Governance Proposals shall require a two thirds majority vote.
 
-In the event of a tied vote (the odd number of representatives is intended to avoid tied votes) the vote of the Chair 
-shall carry the vote. If the Chair does not vote in the case of a tied vote, the Event will not be passed.
+Any approved Proposals shall be put to the Board, which shall ratify on a one vote per Director basis.
 
-All Governance Events proposed for consideration by the Board at a meeting shall be circulated in draft form to the 
-members of the Board at least one week prior to the date of the meeting, and the text of such draft events may be altered 
+In the case of a tied vote (the odd number of representatives is intended to avoid tied votes) the vote of the Chair 
+shall carry the vote. If the Chair does not vote in the case of a tied vote, the Proposal will not be passed.
+
+All Governance Proposals proposed for consideration by the Board at a meeting shall be circulated in draft form to the 
+members of the Board at least one week prior to the date of the meeting, and the text of such draft Proposals may be altered 
 at the meeting.
 
-The Foundation may chose to implement the tracking and voting for Governance Events using an on-ledger Obscuro application 
+The Foundation may chose to implement the tracking and voting for Governance Proposals using an on-ledger Obscuro application 
 in an attempt to simplify governance, provide transparency and lower costs, provided the application has been tested 
 thoroughly and has sufficient manual override controls.
 
@@ -334,7 +307,7 @@ services and the Foundation, and to ensure that its activities are sufficiently 
 
 The Participant Community have the right to:
 
-1. Propose a formal Governance Event to the Board for voting. This must meet the appropriate standards and formats.
+1. Propose a formal Governance Proposal to the Board for voting. This must meet the appropriate standards and formats.
 2. Request observer representation at a board meeting subject to logistical constraints. 
 3. Utilise any brand and marketing materials that may be provided by the Foundation to Participants.
 4. Identify themselves as participants of the Foundation.
@@ -414,14 +387,14 @@ which is set out in section 7. There may be variance in the fee depending on whe
 Obscuro Network-powered application, and therefore the services which the Participant is able to access.
 
 Such fees shall be detailed in a separate schedule to be updated annually and approved by the Board by a Mandatory 
-Governance Event.
+Governance Proposal.
 
 The Operator may agree to provide the Foundation with a start-up commercial loan, in order to allow the Foundation to 
 cap fees for Participants initially. This will allow early widespread adoption, when early participant numbers will not 
 offset fixed operating costs. In this case, the fees will not fall to steady-state levels until the loan has been repaid.
 
 Subsidiaries of large organisations shall apply for membership separately, since the model for Obscuro usage is for one 
-identity per legal entity, unless varied by Mandatory Governance Event. The fee and voting right shall apply to each 
+identity per legal entity, unless varied by Mandatory Governance Proposal. The fee and voting right shall apply to each 
 subsidiary individually.
 
 The fee applies even if the Participants chooses not to operate a Obscuro node on the Network. Therefore, Participants 
