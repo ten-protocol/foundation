@@ -3,7 +3,7 @@
 Governance Guidelines
 =====================
 
-This is a set of governance guidelines for the Obscuro Network Foundation. It provides a framework for the Foundation’s Board, to steer and govern Obscuro Network effectively to realise its potential. It is not a set of binding legal obligations.
+This is a set of governance guidelines for the Obscuro Network Foundation. It provides a framework for the Foundation’s Participants and Board, to steer and govern Obscuro Network effectively to realise its potential. It is not a set of binding legal obligations.
 
 1. Background to Obscuro and the Network
 =======================================
@@ -50,8 +50,10 @@ Many other decentralised networks establish a legal entity to govern their rules
 ------------------------------
 Analysis and feedback show that Obscuro Network will be most effectively governed via a Foundation, a not-for-profit, independent entity which is domiciled in a legal jurisdiction and which can be shown to comply with the local and international laws. One of the implications of chosing to incorporate a Foundation is that it will require the involvement of people to represent it and be accountable for its actions to the jurisdiction in which it is based. In order to meet the value of being democratic, those people who represent the Foundation (for example, as members of a governing Board) will need to be elected by Network Participants, and in order to be fair, anyone should be able to put themselves forward as a representative.
 
+**The Foundation is the legal embodiment of the community, and is structured so that members of the community make all decisions, whether directly or indirectly. There must be no other unseen powers or influence holders. Every change to the Obscuro Protocol, the Network, and governance must follow a path laid out in this document.**
+
 2. The Obscuro Network Foundation
-==============================
+=================================
 
 2.1	Mission
 -----------
@@ -61,8 +63,8 @@ Achieving this vision and making it ubiquitous will involve running and maintain
 
 Following on this, the Obscuro Network Foundation shall strive for the following qualities in executing its mission:
 
-* Fairness and openness – Participants can join the Network and make up the Network’s governing board, elected through a straightforward voting process.
-* Democracy and transparency – Key decisions and rationale are shared openly with Participants. 
+* Fairness and openness – Participants can join the Network and the Network’s governing board, elected through a straightforward voting process.
+* Democracy and transparency – Key decisions and rationale are made by and shared openly with Participants. 
 * Stability (with a long-term view) with flexibility – The terms of representatives will last three years with a staggered handoff, and the governance model will be flexible to adapt where required.
 * Efficiency – Staying a lean organisation, sufficient to commission and monitor an external providers to run any services, physical infrastructure, or operational processes that may be needed to achieve the vision of Obscuro. 
 * Cost effectiveness - The Foundation willl strive to run its own operations as efficiently as possible, and ensure that the cost of running infrastructure bourne by node operators and end users is as low as possible. The Foundation shall not be a profit-making entity.
@@ -197,13 +199,13 @@ Board meetings shall be limited to the Board Directors, and shall follow the req
 
 The Board meetings shall be conducted in private, but in the interest of transparency, public minutes shall be published within one week following their approval by the Board.
 
-5	Governance Proposals
-=====================
+5 Governance Proposals
+======================
 
 All formal changes to the Network and the Foundation shall be controlled through a formal Governance Proposal process, and the right to initiate this shall be held by all Participants. In the case of disruptive behaviour by an individual Participant or group of Participants, this right may be curtailed, as described in 5.2.5.
 
 5.1	Types of Governance Proposals
-------------------------------
+---------------------------------
 There are three types of change that affect the Network and the Foundation, which require a controlled change process and a vote described in 5.5, and are defined as Governance Proposals:
 
 1. All changes to the Stichting Articles of Association and By-laws are defined as Constitutional Governance Proposals.
@@ -219,7 +221,7 @@ All Constitutional, Business and Technical Governance Proposals shall be support
 For all Governance Proposals, decisions and the rationale for the decision shall be published transparently. 
 
 5.2	Business Governance Proposals
--------------------------------
+---------------------------------
 ### 5.2.1 Access Standards
 The Obscuro system can be accessed by using software which implements the set of technical protocols which define compatibility (see 5.3.1) above). The reference implementation of this software is open source and freely accessible at [www.obscu.ro](https://www.obscu.ro).
 
@@ -237,25 +239,25 @@ Any Operator must enter into an escrow arrangement upon appointment, so that exi
 #### 5.2.4 Change Management Process
 The Network will periodically require participating nodes to implement change. A change notification and management 
 process shall be defined and communicated; and any change to the change management process shall be the subject of a 
-Mandatory Governance Proposal.
+Business Governance Proposal.
 
-#### 5.2.5 Other Mandatory Governance Proposals
+#### 5.2.5 Other Business Governance Proposals
 Restrictions on individual Participants or a group to initiate Governance Proposals; in the event of disruptive behaviour.
 
 Audit: the Board may request an audit of the activities and services provided by the Operator, no more frequently than 
-every year, unless an emergency audit is authorised through a Mandatory Governance Proposal.
+every year, unless an emergency audit is authorised through a Business Governance Proposal.
 
 Marketing, Trademark and Branding: Obscuro Limited shall commit to license the Obscuro trademark to the Foundation. The Foundation shall manage its own brand and any trademarks created.
 
 Certifications: Where the Foundation provides standards for certification of organisations, individuals or technologies, 
 the Board shall approve the standards and processes for certification.
 
-Change to the arbitration and dispute resolution process shall be the subject of a Mandatory Governance Proposal.
+Change to the arbitration and dispute resolution process shall be the subject of a Business Governance Proposal.
 
 Policies covering areas of operation not covered by the Constitution (e.g. code of conduct for Board Directors).
 
 5.3	Technical Governance Proposals
-------------------------------
+----------------------------------
 #### 5.3.1	Technical Standards
 There is a set of technical standards, such as ‘network parameters’, which all Obscuro Network nodes need to comply with in order to guarantee technical compatibility to other nodes and services within the Network. While Obscuro has stability and backwards compatibility as key design goals, there may be circumstances under which these standards will need to change. Where these changes require participants in the Network to update to remain compatible, these changes will be subject to Governance Proposals. 
 
@@ -271,59 +273,45 @@ Disputes between Participants arising from the operation of a Obscuro applicatio
 application developer and its community. If necessary, Participants may escalate to the Foundation by creating a Technical Governance Proposal.
 
 5.4	Emergency Governance Proposals
--------------------------------
+----------------------------------
 Certain Network incidents, which could impact one or more Network participants and that would be the subject of Business or Technical Governance Proposals, shall require immediate resolution. In these cases, the Operator(s) and Protocol Developer(s) may make emergency changes to preserve the stability and integrity of the Network, but these shall be subject to post-event evaluation and standard Governance Proposal processing. Areas of control that are the subject of Business Governance Proposals are not expected to require emergency remediation.
 
 5.5	Voting
 ----------
-All Constitutional, Mandatory and Advisory Governance Proposals outlined in sections 5.2 and 5.3 shall be presented to the Participants for voting. The Participants shall vote on a one vote per person basis to approve or reject the Governance Proposal. 
-Quorum shall require two thirds of the Participants to vote. Abstention is not a vote. The Board may continue to meet if quorum is not met, but shall be prevented from making any decisions at the meeting. Decisions by electronic 
-vote without a meeting shall require a vote by two thirds majority of all Directors.
+All Constitutional, Business and Advisory Governance Proposals outlined in sections 5.2 and 5.3 shall be presented to the Participants for voting. The Participants shall vote on a one vote per person basis to approve or reject the Governance Proposal. Participant quorum shall require one third of the Participants to vote. Abstention is not a vote. 
 
-Provided quorum is met, Constitutional Governance Proposals shall require a three quarters majority vote, and Mandatory 
-Governance Proposals shall require a two thirds majority vote.
+Provided quorum is met, Constitutional Governance Proposals shall require a four fifths majority vote to pass. Business Governance and Technical Proposals shall require a two thirds majority vote to pass.
 
-Any approved Proposals shall be put to the Board, which shall ratify on a one vote per Director basis.
+Any approved Proposals shall be put to the Board for legality veto, which shall ratify on a one vote per Director basis.In the case of a tied vote (the odd number of representatives is intended to avoid tied votes) the vote of the Chair shall carry the vote. If the Chair does not vote in the case of a tied vote, the Proposal will not be passed.
 
-In the case of a tied vote (the odd number of representatives is intended to avoid tied votes) the vote of the Chair 
-shall carry the vote. If the Chair does not vote in the case of a tied vote, the Proposal will not be passed.
+All Governance Proposals proposed for consideration of legality by the Board at a meeting shall be circulated in draft form to the members of the Board at least one week prior to the date of the meeting, and the text of such draft Proposals may be altered at the meeting. The Directors shall vote on a one vote per person basis to approve or reject the Governance Proposal. Quorum shall require two thirds of the Directors to vote. Abstention is not a vote. The Board may continue to meet if quorum is not met, but shall be prevented from making any decisions at the meeting. Board decisions by electronic vote without a meeting shall require a vote by two thirds majority of all Directors.
 
-All Governance Proposals proposed for consideration by the Board at a meeting shall be circulated in draft form to the 
-members of the Board at least one week prior to the date of the meeting, and the text of such draft Proposals may be altered 
-at the meeting.
-
-The Foundation may chose to implement the tracking and voting for Governance Proposals using an on-ledger Obscuro application 
-in an attempt to simplify governance, provide transparency and lower costs, provided the application has been tested 
-thoroughly and has sufficient manual override controls.
+The Foundation may chose to implement the tracking and voting for Governance Proposals using an on-ledger Obscuro application in an attempt to simplify governance, provide transparency and lower costs, provided the application has been tested thoroughly and has sufficient manual override controls.
 
 6 Participation
 =================
 
 6.1	General Membership
 ----------------------
-Participation is open to any potential participant on the Network, subject to meeting normal Network access conditions 
-described in section 5.2.1, and paying a nominal annual participation fee to cover both the operational costs of Network 
-services and the Foundation, and to ensure that its activities are sufficiently resourced.
+Voting participation is open to any potential Participant or token holder on the Network, subject to meeting the following criteria:
+1. Hold 1000 OBX utility tokens (used to pay for transactions on the network).
 
-The Participant Community have the right to:
-
-1. Propose a formal Governance Proposal to the Board for voting. This must meet the appropriate standards and formats.
+The Participant Community has the right to:
+1. Propose a formal Governance Proposal to the Foundation for voting. This must meet the appropriate standards and formats.
 2. Request observer representation at a board meeting subject to logistical constraints. 
 3. Utilise any brand and marketing materials that may be provided by the Foundation to Participants.
-4. Identify themselves as participants of the Foundation.
+4. Identify themselves as Participants of the Foundation.
 5. Vote in the periodic election of a new Board.  
-6. Participate in conferences, projects and initiatives of the Foundation. Numbers of participants and any additional 
+
+The following activities are 'permissionless'; that is, anyone can undertake them, regardless of whether they meet the criteria for Foundation Participants:
+1. Participate in conferences, projects and initiatives of the Foundation. Numbers of participants and any additional 
 costs will depend on the individual event.
-7. Receive an identity necessary to operate a Obscuro node on the Network.
-8. Use the Network for live business activities running 'in production'.
+2. Use the Test Network for test application activities running 'in test'.
+3. Use the Network for live application activities running 'in production'.
 
 6.2	Technical Advisory Committee
 --------------------------------
-The Technical Advisory Committee shall have limited participants appointed directly by the Board. Its mandate and 
-charter will be set by the Board. It shall act directly on the instructions of the Board or the Operator, which shall 
-set expected deliverables and timelines. It shall focus on specific technical topics and may have responsibility for 
-the following:
-
+The Technical Advisory Committee shall have limited participants appointed directly by the Board. Its mandate and charter will be set by the Board. It shall act directly on the instructions of the Board or the Operator, which shall set expected deliverables and timelines. It shall focus on specific technical topics and may have responsibility for the following:
 1. Advise on technical decisions for the Operator.
 2. Advising the Board in technical matters.
 3. Provide feedback on the technical roadmap for Obscuro, from real-world and practical experience gained from observing 
@@ -334,9 +322,7 @@ elegant and practical system design
 
 6.3	Governance Advisory Committee
 ---------------------------------
-The Governance Advisory Committee shall have limited participants appointed directly by the board. Its purpose is to 
-recommend actions to the Board for approval on non-technical matters, where additional support is helpful. This may 
-include decisions on:
+The Governance Advisory Committee shall have limited participants appointed directly by the board. Its purpose is to recommend actions to the Board for approval on non-technical matters, where additional support is helpful. This may include decisions on:
 
 1. Operator Due Diligence
 2. Identity and Permissions
@@ -344,69 +330,16 @@ include decisions on:
 4. Interacting with Regulators
 5. Complaints and Whistle-blowing
 
-7 The Obscuro Network Operator
-============================
+7 The Obscuro Network Operator(s)
+=================================
 
-In order to pursue the mission of the Foundation as set out in section 1, there will need to be a set of operational 
-activities, including technical activities such as hosting services, marketing activities, community management and 
-promotion. These activities shall be funded through the participation fees and overseen by the Board, and they will 
-require operational staffing by the Operator. It is not envisaged (at least during the first year) that the Obscuro 
-Network Foundation will need separate staff. Administrative operations and meeting facilities will be provided by the 
-Operator.
+In order to pursue the mission of the Foundation as set out in section 1, there will need to be a set of operational activities, including technical activities such as hosting services, marketing activities, community management and promotion. These activities shall be funded through the participation fees and overseen by the Board, and they will require operational staffing by the Operator(s). It is not envisaged (at least during the first year) that the Obscuro Network Foundation will need separate staff. Administrative operations and meeting facilities will be provided by the Operator.
 
-The Operator shall invoice the Foundation for the costs of operating the Network and minor administrative expenses, 
-initially on a cost-plus basis, and subject to annual review. Obscuro Network identity and map technical services 
-have been designed to be highly cacheable, and low-cost in operation.
+The Operator shall invoice the Foundation for the costs of operating the Network and minor administrative expenses,  initially on a cost-plus basis, and subject to annual review. 
 
-For the first three years, R3 shall act as the Operator. 
+For the first year, Obscuro Limited shall act as the Operator. 
  
-8 Costs and Participation Fees
-==============================
-
-8.1 Costs
----------
-In line with the mission and values of the Foundation, the Network Foundation is not a profit seeking entity. But the 
-Foundation needs to provide governance and technical services, and these will incur costs. The Foundation maintains these 
-cost principles, as ideals but not contractual standards:
-
-1. Costs for all services should be borne by all users of those services.
-2. One group of participants should not subsidise another.
-3. The costs shall be tightly managed, and the Foundation shall seek to provide the most cost-effective implementation 
-of all of its own administration, governance and technical services.
-4. Costs of one service should not be subsidised by another.
-5. The Foundation's cost model should be public, to demonstrate that the costs could not reasonably be lower.
-
-8.2 Participation Fee
----------------------
-The Foundation shall meet costs by levying a participation fee and notary fee for all Participants. The participation 
-fee will be independent of organisation size and number of transactions on Obscuro, to reflect the underlying cost of 
-identity issuance. 
-
-The fee shall be based on the number of Participants divided by an estimate of the cost of running the Foundation, 
-which is set out in section 7. There may be variance in the fee depending on whether the Participant is indirectly using a 
-Obscuro Network-powered application, and therefore the services which the Participant is able to access.
-
-Such fees shall be detailed in a separate schedule to be updated annually and approved by the Board by a Mandatory 
-Governance Proposal.
-
-The Operator may agree to provide the Foundation with a start-up commercial loan, in order to allow the Foundation to 
-cap fees for Participants initially. This will allow early widespread adoption, when early participant numbers will not 
-offset fixed operating costs. In this case, the fees will not fall to steady-state levels until the loan has been repaid.
-
-Subsidiaries of large organisations shall apply for membership separately, since the model for Obscuro usage is for one 
-identity per legal entity, unless varied by Mandatory Governance Proposal. The fee and voting right shall apply to each 
-subsidiary individually.
-
-The fee applies even if the Participants chooses not to operate a Obscuro node on the Network. Therefore, Participants 
-can be potential or active participants.
-
-8.3 Notary Fee
---------------
-Transaction notary fees will be charged separately, on a per-use basis. This reflects the variable cost of providing 
-notary services, with a wide orders-of-magnitude disparity between frequent and infrequent participant transaction 
-volumes. As a principle, notary fees shall not subsidise participation fees, nor vice versa.
-
-9 Community
+8 Community
 ===========
 Obscuro is a collaborative effort, and part of the Foundation’s mission is to help create and foster a technical community 
 that will benefit all Obscuro solution providers and users. As such, the Foundation will work to encourage further 
@@ -417,7 +350,7 @@ identified in the technical white paper.
 The Obscuro technical community should be broad and open, encouraging participation and active conversations on the 
 technology and applications, but this cannot be mandated by the Foundation.
 
-9.1	Non-Discrimination
+8.1	Non-Discrimination
 ----------------------
 The Foundation will welcome any organization able to meet the Participation criteria, regardless of competitive 
 interests with other Participants. The Board shall not seek to exclude any Participant for any reasons other than those 
