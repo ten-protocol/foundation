@@ -57,7 +57,8 @@ Analysis and feedback show that Obscuro Network will be most effectively governe
 
 2.1	Mission
 -----------
-Following on from the Obscuro White Paper, we see the mission of the Obscuro Network Foundation to achieve the vision of Obscuro - whereby transactions of users can be recorded in an immutable ledger, benefiting from the power of smart contracts which control the flow of value and adata and enable useful applications, while maintaining privacy. 
+Following on from the Obscuro White Paper, we see the mission of the Obscuro Network Foundation to achieve the vision of Obscuro - whereby transactions of users can be recorded in an immutable ledger, benefiting from the power of smart contracts which control the flow of value and adata and enable useful applications, while maintaining privacy.
+[GT] can this statement include something like "within the confines of local and international law"? 
 
 Achieving this vision and making it ubiquitous will involve running and maintaining a stable and secure Network with open and fair governance, while also promoting the Network so as to ensure its more widespread use.
 
@@ -67,7 +68,7 @@ Following on this, the Obscuro Network Foundation shall strive for the following
 * Democracy and transparency – Key decisions and rationale are made by and shared openly with Participants. 
 * Stability (with a long-term view) with flexibility – The terms of representatives will last three years with a staggered handoff, and the governance model will be flexible to adapt where required.
 * Efficiency – Staying a lean organisation, sufficient to commission and monitor an external providers to run any services, physical infrastructure, or operational processes that may be needed to achieve the vision of Obscuro. 
-* Cost effectiveness - The Foundation willl strive to run its own operations as efficiently as possible, and ensure that the cost of running infrastructure bourne by node operators and end users is as low as possible. The Foundation shall not be a profit-making entity.
+* Cost effectiveness - The Foundation willl strive to run its own operations as efficiently as possible, and ensure that the cost of running infrastructure bourne by node operators and end users is as low as possible. The Foundation shall not be a profit-making entity. [GT] what should happen if the Foundation accumulates value, e.g. tokens they hold go up in value. In that case the Foundation remains non profit-making because they do not convert the tokens to fiat? 
 * Independence – Obscuro Network Foundation makes its own decisions (within the law), and is not following another entity’s rules.
 
 More specifically, the Foundation shall focus on the following commitments over the long-term:
@@ -151,6 +152,8 @@ Participants shall be directed to vote to ensure that the Board is composed of D
 * Have an awareness of cultural and geographic perspectives.
 * Demonstrate integrity, intelligence and objectivity.
 * Can work and communicate in written and spoken English. 
+[GT] Would they need to understand and 'get' the Web3 zeitgeist?
+[GT] Do not have a criminal record? Or history of bankruptcy?
 
 ### 4.5.3 Diversity Objectives
 The Foundation believes that a broad respresentation of Participants will result in higher-quality decision-making, and wider global adoption of the Network. To promote diversity, the following guidelines are adopted, in particular for steady-state governance (recognising that it may not be possible to fulfil these during any transition period):
@@ -160,6 +163,7 @@ The Foundation believes that a broad respresentation of Participants will result
 * Of the nine Directors, there should not be more than four Directors from any continent, based on a model of {North America, South America, Europe, Asia/Australasia}, to ensure geographic diversity. 
 
 In any voting for Directors, candidates will be considered in order of votes received, but if a limit are reached, the candidate breaching the limit will be skipped and the selection moved to the next candidate who does not breach the limit.
+[GT] I don't get this! Is it a lower limit?
 
 ### 4.5.4 Establishment of the Board
 #### 4.5.4.1 Pre-Foundation 
@@ -198,6 +202,8 @@ The Board shall ratify all Governance Proposals approved by the Participant voti
 Board meetings shall be limited to the Board Directors, and shall follow the requirements for quorum and voting outlined in these guidelines. 
 
 The Board meetings shall be conducted in private, but in the interest of transparency, public minutes shall be published within one week following their approval by the Board.
+[GT] Does the minute taker need to be specified?
+[GT] Is there a criteria for quorum?
 
 5 Governance Proposals
 ======================
@@ -213,6 +219,7 @@ There are three types of change that affect the Network and the Foundation, whic
 defined in Articles of Association or By-laws are defined as Business Governance Proposals in section 5.2. 
 3. All changes to technical parameters and notary criteria, which affect the nodes of participants, are defined as 
 Technical Governance Proposals in section 5.3. 
+[GT] switch notary criteria for consensus criteria?
 
 Any changes in the day to day internal implementation of network services by any Operator(s) appointed by the Foundation, which do not impact the wider network, are out of scope as Governance Proposals. 
 
@@ -243,6 +250,7 @@ Business Governance Proposal.
 
 #### 5.2.5 Other Business Governance Proposals
 Restrictions on individual Participants or a group to initiate Governance Proposals; in the event of disruptive behaviour.
+[GT] Could restrictions also include sanctioned participants and those who fail KYC/AML checks in addition to disruptive behaviour?
 
 Audit: the Board may request an audit of the activities and services provided by the Operator, no more frequently than 
 every year, unless an emergency audit is authorised through a Business Governance Proposal.
@@ -278,7 +286,8 @@ Certain Network incidents, which could impact one or more Network participants a
 
 5.5	Voting
 ----------
-All Constitutional, Business and Advisory Governance Proposals outlined in sections 5.2 and 5.3 shall be presented to the Participants for voting. The Participants shall vote on a one vote per person basis to approve or reject the Governance Proposal. Participant quorum shall require one third of the Participants to vote. Abstention is not a vote. 
+All Constitutional, Business and Advisory Governance Proposals outlined in sections 5.2 and 5.3 shall be presented to the Participants for voting. The Participants shall vote on a one vote per person basis to approve or reject the Governance Proposal. Participant quorum shall require one third of the Participants to vote. Abstention is not a vote.
+[GT] What is the definition of a "person"? Is it a wallet address? A bona-fide online identity from a recognised identity provider? A doxxed identity? 
 
 Provided quorum is met, Constitutional Governance Proposals shall require a four fifths majority vote to pass. Business Governance and Technical Proposals shall require a two thirds majority vote to pass.
 
@@ -295,6 +304,7 @@ The Foundation may chose to implement the tracking and voting for Governance Pro
 ----------------------
 Voting participation is open to any potential Participant or token holder on the Network, subject to meeting the following criteria:
 1. Hold 1000 OBX utility tokens (used to pay for transactions on the network).
+[GT] Hold at least 1000 OBX?
 
 The Participant Community has the right to:
 1. Propose a formal Governance Proposal to the Foundation for voting. This must meet the appropriate standards and formats.
