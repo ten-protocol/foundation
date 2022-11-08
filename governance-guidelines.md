@@ -57,8 +57,7 @@ Analysis and feedback show that Obscuro Network will be most effectively governe
 
 2.1	Mission
 -----------
-Following on from the Obscuro White Paper, we see the mission of the Obscuro Network Foundation to achieve the vision of Obscuro - whereby transactions of users can be recorded in an immutable ledger, benefiting from the power of smart contracts which control the flow of value and adata and enable useful applications, while maintaining privacy.
-[GT] can this statement include something like "within the confines of local and international law"? 
+Following on from the Obscuro White Paper, we see the mission of the Obscuro Network Foundation to achieve the vision of Obscuro - whereby transactions of users can be recorded in an immutable ledger, benefiting from the power of smart contracts which control the flow of value and adata and enable useful applications, while maintaining privacy within the confines of local and international law.
 
 Achieving this vision and making it ubiquitous will involve running and maintaining a stable and secure Network with open and fair governance, while also promoting the Network so as to ensure its more widespread use.
 
@@ -68,10 +67,8 @@ Following on this, the Obscuro Network Foundation shall strive for the following
 * Democracy and transparency – Key decisions and rationale are made by and shared openly with Participants. 
 * Stability (with a long-term view) with flexibility – The terms of representatives will last three years with a staggered handoff, and the governance model will be flexible to adapt where required.
 * Efficiency – Staying a lean organisation, sufficient to commission and monitor an external providers to run any services, physical infrastructure, or operational processes that may be needed to achieve the vision of Obscuro. 
-* Cost effectiveness - The Foundation willl strive to run its own operations as efficiently as possible, and ensure that the cost of running infrastructure bourne by node operators and end users is as low as possible. The Foundation shall not be a profit-making entity. [GT] what should happen if the Foundation accumulates value, e.g. tokens they hold go up in value. In that case the Foundation remains non profit-making because they do not convert the tokens to fiat? 
-* Independence – Obscuro Network Foundation makes its own decisions (within the law), and is not following another entity’s rules.
-
-More specifically, the Foundation shall focus on the following commitments over the long-term:
+* Cost effectiveness - The Foundation willl strive to run its own operations as efficiently as possible, and ensure that the cost of running infrastructure bourne by node operators and end users is as low as possible. The Foundation shall not be a profit-making entity. The Foundation may be allocated tokens, and hold them on behalf of the community. These tokens may be sold in order to fund further development of the protocol, but only in order to recompense Operator(s) and Protocol Developer(s), and as such will remain not-for-profit. 
+* Independence – Obscuro Network Foundation makes its own decisions (within the law), and is not following another entity’s rules.ly, the Foundation shall focus on the following commitments over the long-term:
 
 * Maintain the long-term standards, services and open governance model of the Protocol and Network. 
 * Hold any Trust Roots required for the Network.
@@ -152,8 +149,8 @@ Participants shall be directed to vote to ensure that the Board is composed of D
 * Have an awareness of cultural and geographic perspectives.
 * Demonstrate integrity, intelligence and objectivity.
 * Can work and communicate in written and spoken English. 
-[GT] Would they need to understand and 'get' the Web3 zeitgeist?
-[GT] Do not have a criminal record? Or history of bankruptcy?
+* Understand the Web3 landscape, and where Obscuro sits within it.
+* Not have a history of criminality and bankruptcy.
 
 ### 4.5.3 Diversity Objectives
 The Foundation believes that a broad respresentation of Participants will result in higher-quality decision-making, and wider global adoption of the Network. To promote diversity, the following guidelines are adopted, in particular for steady-state governance (recognising that it may not be possible to fulfil these during any transition period):
@@ -162,8 +159,7 @@ The Foundation believes that a broad respresentation of Participants will result
 * Of the nine Directors, there should not be more than four Directors from any broad classification, based on a model of {infrastructure provider, application developer, end user, academic, market maker, exchange}.
 * Of the nine Directors, there should not be more than four Directors from any continent, based on a model of {North America, South America, Europe, Asia/Australasia}, to ensure geographic diversity. 
 
-In any voting for Directors, candidates will be considered in order of votes received, but if a limit are reached, the candidate breaching the limit will be skipped and the selection moved to the next candidate who does not breach the limit.
-[GT] I don't get this! Is it a lower limit?
+In any voting for Directors, candidates will be considered in order of votes received, but if a diversity limit are reached, the candidate breaching the limit will be skipped and the selection moved to the next candidate who does not breach the limit. For example, if the most-popular candidate represents a corporate group, they will occupy the first seat, and if the second-most-popular candidate represents the same corporate group, they will be skipped in favour of the third-most-popular candidate.
 
 ### 4.5.4 Establishment of the Board
 #### 4.5.4.1 Pre-Foundation 
@@ -171,25 +167,18 @@ Initially Obscuro Limited shall govern the Network to ensure rapid progress on i
 #### 4.5.4.2 Initial set-up of Foundation Board: 
 After this start-up period, there will be a vote by the community for the election of Board Directors. 
 
-For the first election only, of the nine vacant seats, three will be for a duration of one year, three for two years, and 
-three for three years. This will introduce a staggered board, so there is greater continuity at the end of each term. 
-Candidates with the most votes will fill the three-year seats first, followed by two-year and then one-year seats. In all other 
-respects, the first election will follow the steady state process.
+For the first election only, of the nine vacant seats, three will be for a duration of one year, three for two years, and three for three years. This will introduce a staggered board, so there is greater continuity at the end of each term. 
+Candidates with the most votes will fill the three-year seats first, followed by two-year and then one-year seats. In all other respects, the first election will follow the steady state process.
 #### 4.5.4.3 Steady-State
 1. Participants may nominate candidates for Director election. Appointments to the nine seats of the Board will be 
 by vote of the Participants, with three seats up for election each year. Any seats vacated mid-term will also be 
 elected at the same time.
 2. Candidates will create a personal statement and short biography, which will be shared with all Participants.
 3. Participants may each cast up to three votes for three separate candidates.
-4. Subject to meeting certain criteria (including diversity of geography and industry), the most popular candidates 
-will be appointed as Directors. 
-5. Candidates will be considered in sequence from most popular to least, and if a seat is vacant according to the 
-diversity criteria in section 4.3.3, the candidate will be allocated to it. This may mean that occasionally a less 
-popular candidate fills a seat instead of a more popular one.
+4. Subject to meeting certain criteria (including diversity of geography and industry), the most popular candidates will be appointed as Directors. 
+5. Candidates will be considered in sequence from most popular to least, and if a seat is vacant according to the diversity criteria in section 4.3.3, the candidate will be allocated to it. This may mean that occasionally a less popular candidate fills a seat instead of a more popular one.
 #### 4.5.4.4 Removal from the Board and Re-election.
-Apart from the three-year expiry, Directors can otherwise leave the Board by resignation, prolonged non-attendance of 
-board meetings of more than six months, death, or if necessary, removal by a Mandatory Governance Proposal. In any case, a 
-vacant seat will be contested at the next annual election.
+Apart from the three-year expiry, Directors can otherwise leave the Board by resignation, prolonged non-attendance of board meetings of more than six months, death, or if necessary, removal by a Mandatory Governance Proposal. In any case, a vacant seat will be contested at the next annual election.
 
 4.6	Conduct of Board Meetings
 -----------------------------
@@ -202,8 +191,6 @@ The Board shall ratify all Governance Proposals approved by the Participant voti
 Board meetings shall be limited to the Board Directors, and shall follow the requirements for quorum and voting outlined in these guidelines. 
 
 The Board meetings shall be conducted in private, but in the interest of transparency, public minutes shall be published within one week following their approval by the Board.
-[GT] Does the minute taker need to be specified?
-[GT] Is there a criteria for quorum?
 
 5 Governance Proposals
 ======================
@@ -215,11 +202,9 @@ All formal changes to the Network and the Foundation shall be controlled through
 There are three types of change that affect the Network and the Foundation, which require a controlled change process and a vote described in 5.5, and are defined as Governance Proposals:
 
 1. All changes to the Stichting Articles of Association and By-laws are defined as Constitutional Governance Proposals.
-2. All changes to Network participation criteria, charges, budgets, change management process and other business areas not 
-defined in Articles of Association or By-laws are defined as Business Governance Proposals in section 5.2. 
-3. All changes to technical parameters and notary criteria, which affect the nodes of participants, are defined as 
+2. All changes to Network participation criteria, charges, budgets, change management process and other business areas not defined in Articles of Association or By-laws are defined as Business Governance Proposals in section 5.2. 
+3. All changes to technical parameters and consensus criteria, which affect the nodes of participants, are defined as 
 Technical Governance Proposals in section 5.3. 
-[GT] switch notary criteria for consensus criteria?
 
 Any changes in the day to day internal implementation of network services by any Operator(s) appointed by the Foundation, which do not impact the wider network, are out of scope as Governance Proposals. 
 
@@ -250,15 +235,13 @@ Business Governance Proposal.
 
 #### 5.2.5 Other Business Governance Proposals
 Restrictions on individual Participants or a group to initiate Governance Proposals; in the event of disruptive behaviour.
-[GT] Could restrictions also include sanctioned participants and those who fail KYC/AML checks in addition to disruptive behaviour?
+Note that Participants do not go through a KYC process and are not subject to Sanction restrictions, since they are pseudonymous.
 
-Audit: the Board may request an audit of the activities and services provided by the Operator, no more frequently than 
-every year, unless an emergency audit is authorised through a Business Governance Proposal.
+Audit: the Board may request an audit of the activities and services provided by the Operator, no more frequently than every year, unless an emergency audit is authorised through a Business Governance Proposal.
 
 Marketing, Trademark and Branding: Obscuro Limited shall commit to license the Obscuro trademark to the Foundation. The Foundation shall manage its own brand and any trademarks created.
 
-Certifications: Where the Foundation provides standards for certification of organisations, individuals or technologies, 
-the Board shall approve the standards and processes for certification.
+Certifications: Where the Foundation provides standards for certification of organisations, individuals or technologies, the Board shall approve the standards and processes for certification.
 
 Change to the arbitration and dispute resolution process shall be the subject of a Business Governance Proposal.
 
@@ -286,8 +269,7 @@ Certain Network incidents, which could impact one or more Network participants a
 
 5.5	Voting
 ----------
-All Constitutional, Business and Advisory Governance Proposals outlined in sections 5.2 and 5.3 shall be presented to the Participants for voting. The Participants shall vote on a one vote per person basis to approve or reject the Governance Proposal. Participant quorum shall require one third of the Participants to vote. Abstention is not a vote.
-[GT] What is the definition of a "person"? Is it a wallet address? A bona-fide online identity from a recognised identity provider? A doxxed identity? 
+All Constitutional, Business and Advisory Governance Proposals outlined in sections 5.2 and 5.3 shall be presented to the Participants for voting. The Participants shall vote on a one vote per Obscuro account basis to approve or reject the Governance Proposal. Participant quorum shall require one third of the Participants to vote. Abstention is not a vote.
 
 Provided quorum is met, Constitutional Governance Proposals shall require a four fifths majority vote to pass. Business Governance and Technical Proposals shall require a two thirds majority vote to pass.
 
@@ -303,8 +285,7 @@ The Foundation may chose to implement the tracking and voting for Governance Pro
 6.1	General Membership
 ----------------------
 Voting participation is open to any potential Participant or token holder on the Network, subject to meeting the following criteria:
-1. Hold 1000 OBX utility tokens (used to pay for transactions on the network).
-[GT] Hold at least 1000 OBX?
+1. Hold at least 1000 OBX utility tokens (used to pay for transactions on the network).
 
 The Participant Community has the right to:
 1. Propose a formal Governance Proposal to the Foundation for voting. This must meet the appropriate standards and formats.
@@ -313,11 +294,12 @@ The Participant Community has the right to:
 4. Identify themselves as Participants of the Foundation.
 5. Vote in the periodic election of a new Board.  
 
-The following activities are 'permissionless'; that is, anyone can undertake them, regardless of whether they meet the criteria for Foundation Participants:
+The following activities are 'permissionless'; that is, anyone can undertake them, regardless of whether they meet the criteria for Foundation Membership:
 1. Participate in conferences, projects and initiatives of the Foundation. Numbers of participants and any additional 
 costs will depend on the individual event.
 2. Use the Test Network for test application activities running 'in test'.
 3. Use the Network for live application activities running 'in production'.
+Note that Participants do not go through a KYC process and are not subject to Sanction restrictions, since they are pseudonymous.
 
 6.2	Technical Advisory Committee
 --------------------------------
@@ -333,7 +315,6 @@ elegant and practical system design
 6.3	Governance Advisory Committee
 ---------------------------------
 The Governance Advisory Committee shall have limited participants appointed directly by the board. Its purpose is to recommend actions to the Board for approval on non-technical matters, where additional support is helpful. This may include decisions on:
-
 1. Operator Due Diligence
 2. Identity and Permissions
 3. Risks and Escalations
