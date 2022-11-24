@@ -85,7 +85,7 @@ The Foundation is defined in a set of Articles of Association. The Foundation go
 
 Ratified by:
 
-2. A **Governing Board** (‘the Board’) of 11 representatives (‘Directors’) with privileges and responsibilities as set out 
+2. A **Governing Board** (‘the Board’) of 9 representatives (‘Directors’) with privileges and responsibilities as set out 
 in section 4. 
 
 Controlling:
