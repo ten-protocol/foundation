@@ -79,16 +79,17 @@ A stiftung foundation can have beneficiaries, and in that way they are in some w
 Stiftung are purely not for profit enterprises and commercial activities are generally not permitted to be conducted by them. This is the primary difference between an anstalt and a stiftung. Stiftung are usually administered by a board of trustees,[3] and there is no registration required to establish them.
 ```
 
-The Foundation is defined in a set of Articles of Association.
+The Foundation is defined in a set of Articles of Association. The Foundation governance bodies shall include:
 
-The Foundation governance bodies shall include:
 1. A **General Membership** (‘the Participant Community’), which is open to any organisation or individual participating in Obscuro Network, and with privileges and responsibilities as set out in section 6.
 
 Ratified by:
+
 2. A **Governing Board** (‘the Board’) of 11 representatives (‘Directors’) with privileges and responsibilities as set out 
 in section 4. 
 
 Controlling:
+
 3. One or more **Operators**, which provides reliable, performant and secure operation of any centralised infrastructure required by the stepwise approach to decentralisation set out in [Section 1.1](#11-introduction).
 4. One or more **Protocol Developers**, which provide software development services for Obscuro software, ensuring that it remains functionally rich, meeting the requirements set out by Participants, and secure to existing and emerging vulnerabilities.
 
