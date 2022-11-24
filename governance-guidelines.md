@@ -1,9 +1,9 @@
-|Obscuro Network Foundation|[Document history]({{ site.github.repository_url }}/blame/master/{{page.path}})|
+|Obscuro Foundation|[Document history]({{ site.github.repository_url }}/blame/master/{{page.path}})|
 
 Governance Guidelines
 =====================
 
-This is a set of governance guidelines for the Obscuro Network Foundation. It provides a framework for the Foundation’s Participants and Board, to steer and govern Obscuro Network effectively to realise its potential. It is not a set of binding legal obligations.
+This is a set of governance guidelines for the Obscuro Foundation. It provides a framework for the Foundation’s Participants and Board, to steer and govern Obscuro Network effectively to realise its potential. It is not a set of binding legal obligations.
 
 1. Background to Obscuro and the Network
 =======================================
@@ -16,7 +16,7 @@ Further details of the protocol are laid out in the [Obscuro White Paper](https:
 
 Unlike some other L2s, Obscuro itself is decentralised and permissionless. This means that anyone can launch an Obscuro validator and connect it to the Obscuro network, and that validator can take part in securing the network and processing transactions on it. 
 
-Obscuro is both a protocol and a network, and both require governance and controlled evolution in a way which fits with the decentralised and permissionless model. Obscuro Network exists to operate the protocol of Obscuro, which is specified in the "White Paper" of the Obscuro Open Source Project codebase, but later may be formalised in a "Yellow Paper" protocol specification document, which then will become canonical.
+Obscuro is both a protocol and a network, and both require governance and controlled evolution in a way which fits with the decentralised and permissionless model. Obscuro Network exists to operate the protocol of Obscuro. The protocol is specified in the "White Paper" of the Obscuro project codebase, but later may be formalised in a canonical "Yellow Paper" protocol specification document.
 
 The Obscuro project and network aim to realise the following values:
 * Decentralised, meaning that there is no central infrastructure or decision-making organisation beyond that which is needed for coordination and governance.
@@ -31,7 +31,7 @@ Some of these values appear to be in contradiction, and a middle path must be fo
 
 Additionally, it is anticipated that the objective of decentralisation may be achieved over a period of time. Initially, some parts of the L2 architecture will be decentralised and some parts will be centralised and managed by an Operator, to be appointed by the Foundation. Of course, the L1 is decentralised from the outset. This step-wise approach allows the overall requirement of decentralisation to be met by the overall L1/L2 system, while remaining pragmatic and flexible about how it is achieved. 
 
-1.2	Reason for the Obscuro Network Foundation
+1.2	Reason for the Obscuro Foundation
 ---------------------------------------------
 Until now, Obscuro Limited, a U.K. registered limited liability company, has set up and governed by default the Obscuro protocol and test network currently. This includes making key decisions around establishing, maintaining and updating standards and the software which implements them, policies, and procedures for participation in, and use of, the test network. This arrangement is strongly community-oriented, but is not yet decentralised in a way which befits a decentralised protocol. The community expects that once the protocol software is sufficiently capable and mature, a production network will be established, and data and value managed on this network will become permanent.
 
@@ -52,24 +52,24 @@ Analysis and feedback show that Obscuro Network will be most effectively governe
 
 **The Foundation is the legal embodiment of the community, and is structured so that members of the community make all decisions, whether directly or indirectly. There must be no other unseen powers or influence holders. Every change to the Obscuro Protocol, the Network, and governance must follow a path laid out in this document.**
 
-2. The Obscuro Network Foundation
+2. The Obscuro Foundation
 =================================
 
 2.1	Mission
 -----------
-Following on from the Obscuro White Paper, we see the mission of the Obscuro Network Foundation to achieve the vision of Obscuro - whereby transactions of users can be recorded in an immutable ledger, benefiting from the power of smart contracts which control the flow of value and adata and enable useful applications, while maintaining privacy within the confines of local and international law.
+Following on from the Obscuro White Paper, we see the mission of the Obscuro Foundation to achieve the vision of Obscuro - whereby transactions of users can be recorded in an immutable ledger, benefiting from the power of smart contracts which control the flow of value and adata and enable useful applications, while maintaining privacy within the confines of local and international law.
 
 Achieving this vision and making it ubiquitous will involve running and maintaining a stable and secure Network with open and fair governance, while also promoting the Network so as to ensure its more widespread use.
 
-Following on this, the Obscuro Network Foundation shall strive for the following qualities in executing its mission:
-
+Following on this, the Obscuro Foundation shall strive for the following qualities in executing its mission:
 * Fairness and openness – Participants can join the Network and the Network’s governing board, elected through a straightforward voting process.
 * Democracy and transparency – Key decisions and rationale are made by and shared openly with Participants. 
 * Stability (with a long-term view) with flexibility – The terms of representatives will last three years with a staggered handoff, and the governance model will be flexible to adapt where required.
 * Efficiency – Staying a lean organisation, sufficient to commission and monitor an external providers to run any services, physical infrastructure, or operational processes that may be needed to achieve the vision of Obscuro. 
 * Cost effectiveness - The Foundation willl strive to run its own operations as efficiently as possible, and ensure that the cost of running infrastructure bourne by node operators and end users is as low as possible. The Foundation shall not be a profit-making entity. The Foundation may be allocated tokens, and hold them on behalf of the community. These tokens may be sold in order to fund further development of the protocol, but only in order to recompense Operator(s) and Protocol Developer(s), and as such will remain not-for-profit. 
-* Independence – Obscuro Network Foundation makes its own decisions (within the law), and is not following another entity’s rules.ly, the Foundation shall focus on the following commitments over the long-term:
+* Independence – Obscuro Foundation makes its own decisions (within the law), and is not following another entity’s rules.
 
+The Foundation shall focus on the following commitments over the long-term:
 * Maintain the long-term standards, services and open governance model of the Protocol and Network. 
 * Hold any Trust Roots required for the Network.
 * Commission the provision and operation of infrastructure and services for the Network, both of technical services, and infrastructure needed for meetings, events and collaborative discussions, and provide structure around the business and technical governance of the Network.
@@ -115,7 +115,7 @@ Any change to the structure of the Foundation is a constitutional change, descri
 
 4.1	Role of the Board
 ---------------------
-The primary goal of the Board is to ensure the legal compliance of the Foundation; the secondary goal is the stable and secure operation of the Network; and the tertiary goal is to achieve the vision of Obscuro laid out in section 2.1. The board has the power of veto over decisions made by the community arising from the formal proposal voting process if and only if these decisions would cause the Foundation to act illegally within the jurisdiction of incorporation.
+The primary goal of the Board is to ensure the legal compliance of the Foundation; the secondary goal is the stable and secure operation of the Network; and the tertiary goal is to achieve the vision of Obscuro laid out in section 2.1. The board has the power of veto over decisions made by the community arising from the formal proposal voting process, but only if these decisions would cause the Foundation to act illegally within the jurisdiction of incorporation.
 
 Directors are expected to comply with the Conflict of Interest policy, which includes a responsibility to disclose promptly any conflicts that may arise, and meet the expected standards specified in the [Code of Conduct Guidelines](../policy/code-conduct.md) for ethical conduct and breach reporting.
 
@@ -156,7 +156,7 @@ Participants shall be directed to vote to ensure that the Board is composed of D
 The Foundation believes that a broad respresentation of Participants will result in higher-quality decision-making, and wider global adoption of the Network. To promote diversity, the following guidelines are adopted, in particular for steady-state governance (recognising that it may not be possible to fulfil these during any transition period):
 
 * No corporate group of participants may have more than one Director. In the case of votes for two different candidates representing the same overall corporate group, the candidate with the most votes shall be considered.
-* Of the nine Directors, there should not be more than four Directors from any broad classification, based on a model of {infrastructure provider, application developer, end user, academic, market maker, exchange}.
+* Of the nine Directors, there should not be more than four Directors from any broad organisational classification, based on a taxonomy of {infrastructure provider, application developer, end user, academic, market maker, exchange}.
 * Of the nine Directors, there should not be more than four Directors from any continent, based on a model of {North America, South America, Europe, Asia/Australasia}, to ensure geographic diversity. 
 
 In any voting for Directors, candidates will be considered in order of votes received, but if a diversity limit are reached, the candidate breaching the limit will be skipped and the selection moved to the next candidate who does not breach the limit. For example, if the most-popular candidate represents a corporate group, they will occupy the first seat, and if the second-most-popular candidate represents the same corporate group, they will be skipped in favour of the third-most-popular candidate.
@@ -201,7 +201,7 @@ All formal changes to the Network and the Foundation shall be controlled through
 ---------------------------------
 There are three types of change that affect the Network and the Foundation, which require a controlled change process and a vote described in 5.5, and are defined as Governance Proposals:
 
-1. All changes to the Stichting Articles of Association and By-laws are defined as Constitutional Governance Proposals.
+1. All changes to the Foundation Articles of Association and By-laws are defined as Constitutional Governance Proposals. An exhaustive list of business and technical change types shall be maintained through a Constitutional Governance Proposal.
 2. All changes to Network participation criteria, charges, budgets, change management process and other business areas not defined in Articles of Association or By-laws are defined as Business Governance Proposals in section 5.2. 
 3. All changes to technical parameters and consensus criteria, which affect the nodes of participants, are defined as 
 Technical Governance Proposals in section 5.3. 
@@ -216,8 +216,6 @@ For all Governance Proposals, decisions and the rationale for the decision shall
 ---------------------------------
 ### 5.2.1 Access Standards
 The Obscuro system can be accessed by using software which implements the set of technical protocols which define compatibility (see 5.3.1) above). The reference implementation of this software is open source and freely accessible at [www.obscu.ro](https://www.obscu.ro).
-
-TODO more here.
 
 #### 5.2.2	Budget, Expenditure and Participation Fees
 The Board shall annually prepare and approve a budget for the operations of the Foundation, taking into account the not-for-profit status of the Foundation and the mission to promote the Obscuro Ecosystem.
@@ -269,7 +267,7 @@ Certain Network incidents, which could impact one or more Network participants a
 
 5.5	Voting
 ----------
-All Constitutional, Business and Advisory Governance Proposals outlined in sections 5.2 and 5.3 shall be presented to the Participants for voting. The Participants shall vote on a one vote per Obscuro account basis to approve or reject the Governance Proposal. Participant quorum shall require one third of the Participants to vote. Abstention is not a vote.
+All Constitutional, Business and Advisory Governance Proposals outlined in sections 5.2 and 5.3 shall be presented to the Participants for voting. Voting is open for one month. The Participants shall vote on a one vote per Obscuro account basis to approve or reject the Governance Proposal. Participant quorum shall require one third of the Participants to vote. Abstention is not a vote.
 
 Provided quorum is met, Constitutional Governance Proposals shall require a four fifths majority vote to pass. Business Governance and Technical Proposals shall require a two thirds majority vote to pass.
 
@@ -287,14 +285,14 @@ The Foundation may chose to implement the tracking and voting for Governance Pro
 Voting participation is open to any potential Participant or token holder on the Network, subject to meeting the following criteria:
 1. Hold at least 1000 OBX utility tokens (used to pay for transactions on the network).
 
-The Participant Community has the right to:
+The Membership Participants have the right to:
 1. Propose a formal Governance Proposal to the Foundation for voting. This must meet the appropriate standards and formats.
 2. Request observer representation at a board meeting subject to logistical constraints. 
 3. Utilise any brand and marketing materials that may be provided by the Foundation to Participants.
 4. Identify themselves as Participants of the Foundation.
 5. Vote in the periodic election of a new Board.  
 
-The following activities are 'permissionless'; that is, anyone can undertake them, regardless of whether they meet the criteria for Foundation Membership:
+The following activities are 'permissionless'; that is, anyone can undertake them, regardless of whether they meet the criteria for Membership:
 1. Participate in conferences, projects and initiatives of the Foundation. Numbers of participants and any additional 
 costs will depend on the individual event.
 2. Use the Test Network for test application activities running 'in test'.
@@ -324,27 +322,20 @@ The Governance Advisory Committee shall have limited participants appointed dire
 7 The Obscuro Network Operator(s)
 =================================
 
-In order to pursue the mission of the Foundation as set out in section 1, there will need to be a set of operational activities, including technical activities such as hosting services, marketing activities, community management and promotion. These activities shall be funded through the participation fees and overseen by the Board, and they will require operational staffing by the Operator(s). It is not envisaged (at least during the first year) that the Obscuro Network Foundation will need separate staff. Administrative operations and meeting facilities will be provided by the Operator.
+In order to pursue the mission of the Foundation as set out in section 1, there will need to be a set of operational activities, including technical activities such as hosting services, marketing activities, community management and promotion. These activities shall be funded through the participation fees and overseen by the Board, and they will require operational staffing by the Operator(s). It is not envisaged (at least during the first year) that the Obscuro Foundation will need separate staff. Administrative operations and meeting facilities will be provided by the Operator.
 
-The Operator shall invoice the Foundation for the costs of operating the Network and minor administrative expenses,  initially on a cost-plus basis, and subject to annual review. 
+The Operator shall invoice the Foundation for the costs of operating the Network and minor administrative expenses, initially on a cost-plus basis, and subject to annual review. 
 
 For the first year, Obscuro Limited shall act as the Operator. 
  
 8 Community
 ===========
-Obscuro is a collaborative effort, and part of the Foundation’s mission is to help create and foster a technical community 
-that will benefit all Obscuro solution providers and users. As such, the Foundation will work to encourage further 
-participation of leading Participants of the ecosystem, including developers, service and solution providers and end 
-users. This community shall work towards furthering the adoption of Obscuro, and contribute to the specific capabilities 
-identified in the technical white paper.
+Obscuro is a collaborative effort, and part of the Foundation’s mission is to help create and foster a technical community that will benefit all Obscuro solution providers and users. As such, the Foundation will work to encourage further participation of leading Participants of the ecosystem, including developers, service and solution providers and end users. This community shall work towards furthering the adoption of Obscuro, and contribute to the specific capabilities identified in the technical white paper.
 
-The Obscuro technical community should be broad and open, encouraging participation and active conversations on the 
-technology and applications, but this cannot be mandated by the Foundation.
+The Obscuro technical community should be broad and open, encouraging participation and active conversations on the technology and applications, but this cannot be mandated by the Foundation.
 
 8.1	Non-Discrimination
 ----------------------
-The Foundation will welcome any organization able to meet the Participation criteria, regardless of competitive 
-interests with other Participants. The Board shall not seek to exclude any Participant for any reasons other than those 
-that are reasonable, explicit and applied on a non-discriminatory basis to all Participants.
+The Foundation will welcome anyone able to meet the Participation criteria, regardless of competitive interests with other Participants. The Foundation shall not seek to exclude any Participant for any reasons other than those that are reasonable, explicit and applied on a non-discriminatory basis to all Participants.
 
 END
