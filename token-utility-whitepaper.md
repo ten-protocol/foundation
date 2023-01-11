@@ -11,7 +11,7 @@ Although OBX is not deflationary, token holders are incentivised to stake as nod
 This tokenomics whitepaper describes the long term intentions for OBX’s utility. In some cases a shorter term approach is used to bootstrap the Obscuro network. Where required, this whitepaper explicitly makes that clear.
 In summary, OBX has four utilities:
 
-1.	To provide a reward to incentivise node operators  to correctly operate Obscuro nodes and provide a reliable service.
+1.	To provide a reward to incentivise node operators to correctly operate Obscuro nodes and provide a reliable service.
 2.	A medium in which users can pay transaction fees and node operators can pay their stake and receive rewards to cover operational costs.
 3.	A means to vote on proposals for changes to Obscuro via a governance model.
 4.	A means to fund and incentivise the ongoing development of the Obscuro ecosystem via development opportunities, grants and competitions.
@@ -29,7 +29,7 @@ The allocations aim to reward ongoing participation in Obscuro and minimise shor
 An airdrop has been intentionally omitted from the allocation because typically they do not benefit projects in the medium to long term.
 
 
-| RECIPIENT             | TOKEN AMOUNT   | ALLOCATION   |
+| RECIPIENT             | TOKEN AMOUNT   | ALLOCATION % |
 |-----------------------|----------------|--------------|
 | Contributor Community | 20,000,000     | 2.00         |
 | Public Sale           | 10,000,000     | 1.00         |
@@ -50,7 +50,7 @@ An airdrop has been intentionally omitted from the allocation because typically 
 ### Token Staking and Delegated Staking
 Nodes must stake OBX when they initially join Obscuro Mainnet as a means for the node operator to demonstrate their intention to maintain privacy, ledger integrity and not attempt to disrupt the safety of the network. The stake is intentionally set at a high value so the loss of stake is material to the operator. Locked tokens can be staked.
 
-If a node finds a discrepency with the rollup published on the Layer 1 network (e.g. transactions missing, transactions in the wrong order), it can post a challenge including the offending rollup to the Layer 1 network. The management contract will inspect this challenge. If successful, the Aggregator's stake will be slashed, with their entire stake split between the Obscuro Foundation DAO and the challenging node as a reward. This reward is greater than the cost of posting the challenge to incentivise prompt discovery of issues, but less than the total stake to reduce the incentive to mount an attack to win the stake.
+If a node finds a discrepancy with the rollup published on the Layer 1 network (e.g. transactions missing, transactions in the wrong order), it can post a challenge including the offending rollup to the Layer 1 network. The management contract will inspect this challenge. If successful, the Aggregator's stake will be slashed, with their entire stake split between the Obscuro Foundation DAO and the challenging node as a reward. This reward is greater than the cost of posting the challenge to incentivise prompt discovery of issues, but less than the total stake to reduce the incentive to mount an attack to win the stake.
 
 The number of tokens required to stake will be reviewed and set by the Obscuro Foundation DAO as the Obscuro Mainnet total value locked (TVL) increases. Increasing the minimum stake as TVL increases continues to economically disincentivise would-be malicious actors from disrupting the network as the theoretical gain from a malicious event becomes more attractive. Once the bootstrapping phase is complete, the size of a node’s stake influences the probability of that node winning the lottery for the rollup submission round.
 
@@ -85,7 +85,7 @@ The Public Sale event and Contributor Community distribution will be conducted t
 
 
 ### Community Reserve
-The Community Reserve exists to run and enhance the Obscuro platform and develop and evolve the Obscuro ecosystem over time.  The Obscuro Foundation DAO has oversight of how the Commnity Reserve is put to use. Examples include engagement with engineering talent, or protocol developers, to further develop the Obscuro platform using tokens as a form of incentive, settling of legal fees and covering other operational costs, security tests and bug bounty programs, incentivising members of the community to make meaningful contributions to Obscuro via incentive programs, grants, hackathons and competitions.
+The Community Reserve exists to run and enhance the Obscuro platform and develop and evolve the Obscuro ecosystem over time.  The Obscuro Foundation DAO has oversight of how the Community Reserve is put to use. Examples include engagement with engineering talent, or protocol developers, to further develop the Obscuro platform using tokens as a form of incentive, settling of legal fees and covering other operational costs, security tests and bug bounty programs, incentivising members of the community to make meaningful contributions to Obscuro via incentive programs, grants, hackathons and competitions.
 
 ### Investors and Core Team
 Providing investors and the Core Team with the opportunity to participate in the Obscuro network is an important part of their contribution to the wider Obscuro ecosystem. Token allocations to these groups encourage continued engagement, interest and contributions. Additionally, application builder engagement in Obscuro is a top priority and nurturing deep engagements with partners who can contribute to Obscuro in a very meaningful way is vital. By encouraging investors to remain actively engaged will help open doors to high quality applications within their portfolio of companies and encourage their migration to Obscuro.
@@ -113,7 +113,7 @@ Tokens distributed to Investors and the Core Team are initially locked up follow
 ### Token Unlocking Schedule
 _This section is normative_
 
-| RECIPIENT             | TOKEN AMOUNT   | UNLOCK AFTER... | UNLOCKED PERIOD |
+| RECIPIENT             | TOKEN AMOUNT   | UNLOCK AFTER    | UNLOCKED PERIOD |
 |-----------------------|----------------|-----------------|-----------------|
 | Contributor Community | 20,000,000     | 0 months        | 60 months       |
 | Public Sale           | 10,000,000     | 0 months        | 0 months        |
@@ -127,7 +127,7 @@ _This section is normative_
 
 The chart below shows the token unlocking schedule in graphical form:
 
-<p align="center" width="100%">
+<p align="center" width="150%">
     <img width="75%" src="./assets/tokenomics-unblock-chart-v1.jpg">
 </p>
 
