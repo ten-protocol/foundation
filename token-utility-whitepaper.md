@@ -128,7 +128,7 @@ _This section is normative_
 The chart below shows the token unlocking schedule in graphical form:
 
 <p align="center" width="150%">
-    <img width="75%" src="./assets/tokenomics-unblock-chart-v1.jpg">
+    <img width="75%" src="./assets/unlock-chart-2.jpg">
 </p>
 
 ## Token Value
