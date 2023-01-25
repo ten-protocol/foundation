@@ -32,7 +32,7 @@ An airdrop has been intentionally omitted from the allocation because typically 
 | RECIPIENT             | TOKEN AMOUNT   | ALLOCATION % |
 |-----------------------|----------------|--------------|
 | Contributor Community | 20,000,000     | 2.00         |
-| Public Sale           | 10,000,000     | 1.00         |
+| Public Offering       | 10,000,000     | 1.00         |
 | Community Reserve     | 436,000,000    | 43.60        |
 | Market Makers         | 20,000,000     | 2.00         |
 | Pre-Seed Investor*    | 100,000,000    | 10.00        |
@@ -76,12 +76,12 @@ Rewards are paid out from a pool of OBX maintained by transaction fees paid in O
 ## Token Allocation
 _This section is non-normative_
 
-### Public Sale and Contributor Community
-The Public Sale and Contributor Community are important for Obscuro to gain early traction in the wider community, achieve organic growth and for early contributors to be recognised for their efforts. It is gratifying and empowering for community members to be rewarded for being active contributors to a project as opposed to receiving the same treatment as people arriving with potentially no genuine enthusiasm for the project. It is also in the interest of the project to identify the value-adding community members and incentivise them to remain active and continue adding value to Obscuro over the long term.
+### Public Offering and Contributor Community
+The Public OFfering and Contributor Community are important for Obscuro to gain early traction in the wider community, achieve organic growth and for early contributors to be recognised for their efforts. It is gratifying and empowering for community members to be rewarded for being active contributors to a project as opposed to receiving the same treatment as people arriving with potentially no genuine enthusiasm for the project. It is also in the interest of the project to identify the value-adding community members and incentivise them to remain active and continue adding value to Obscuro over the long term.
 
 The Contributor Community will be 2% of the total token allocation pool. Contributor Community tokens will be distributed to contributors from the Obscuro community after the launch of Obscuro Mainnet at no cost to the contributor. Contributions are defined, captured, tracked and scored using a decentralised task management tool called Dework. The Dework bounty score indicates how much of the Contributor Community pool a contributor is entitled to. Each contributor's token allocation will be a percentage of their total contributions against the entire community contribution up to the day of Obscuro Mainnet launch.
 
-The Public Sale event and Contributor Community distribution will be conducted through a reputable third-party private sale manager so the necessary regulatory checks are completed with confidence. 
+The Public Offering event and Contributor Community distribution will be conducted through a reputable third-party private offering manager so the necessary regulatory checks are completed with confidence. 
 
 
 ### Community Reserve
@@ -103,7 +103,7 @@ Token unlocking periods are a mixture of time-based and milestone-based outcomes
 
 Tokens distributed to the Contributor Community unlock over the course of 60 months from TGE to encourage continued engagement with Obscuro and discourage early dumping.
 
-Tokens distributed to the Public Sale fully unlock at TGE to allow participation in the Obscuro Mainnet as early as possible without applying downward pressure and making it difficult for others to make use of Obscuro. Specifically, tokens can be used by application users to pay transaction fees, for node operators to stake and for members of the community to participate in delegated staking.
+Tokens distributed to the Public Offering fully unlock at TGE to allow participation in the Obscuro Mainnet as early as possible without applying downward pressure and making it difficult for others to make use of Obscuro. Specifically, tokens can be used by application users to pay transaction fees, for node operators to stake and for members of the community to participate in delegated staking.
 
 Tokens distributed to the Community Reserve are unlocked on a schedule designed to provide early access to the tokens required to execute on their plans, for example, run hackathons to raise awareness of Obscuro.
 
@@ -116,7 +116,7 @@ _This section is normative_
 | RECIPIENT             | TOKEN AMOUNT   | UNLOCK AFTER    | UNLOCKED PERIOD |
 |-----------------------|----------------|-----------------|-----------------|
 | Contributor Community | 20,000,000     | 0 months        | 60 months       |
-| Public Sale           | 10,000,000     | 0 months        | 0 months        |
+| Public Offering       | 10,000,000     | 0 months        | 0 months        |
 | Community Reserve     | 436,000,000    | 0 months        | 60 months       |
 | Market Makers         | 20,000,000     | 0 months        | 0 months        |
 | Pre-Seed Investor*    | 100,000,000    | 12 months       | 36 months       |
