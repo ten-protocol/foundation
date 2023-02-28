@@ -1,4 +1,4 @@
-# Token Utility Whitepaper - v1
+# Token Utility Whitepaper - v1.1
 
 ## Introduction
 A token economy is non-trivial and continues to be an area of much research and debate in the Ethereum community. This proposal document is just that, a proposal which is intended to deliver a viable starting point for an Obscuro token economy. The economic model is expected to evolve over the lifetime of Obscuro via governance proposals.
@@ -26,25 +26,23 @@ The initial token supply is 1,000,000,000 OBX. There is no minting or burning in
 
 The allocations aim to reward ongoing participation in Obscuro and minimise short-termism. The largest allocations with unlocking from the get-go are for community members, third-party integrators and application developers building on top of Obscuro so they can grow and succeed alongside Obscuro.
 
-An airdrop has been intentionally omitted from the allocation because typically they do not benefit projects in the medium to long term.
+An airdrop has been intentionally omitted from the allocation because typically they do not benefit projects in the medium to long term. However where a responsible airdrop program can be used to drive adoption of Obscuro this decision will be revisted.
 
 
 | RECIPIENT             | TOKEN AMOUNT   | ALLOCATION % |
 |-----------------------|----------------|--------------|
 | Contributor Community | 20,000,000     | 2.00         |
 | Public Offering       | 10,000,000     | 1.00         |
-| Community Reserve     | 436,000,000    | 43.60        |
+| Community Reserve     | 550,000,000    | 55.00        |
 | Market Makers         | 20,000,000     | 2.00         |
-| Pre-Seed Investor*    | 100,000,000    | 10.00        |
-| Seed Investors        | 54,200,000     | 5.42         |
-| Strategic Investors   | 160,000,000    | 16.00        |
-| Core Team             | 180,000,000    | 18.00        |
+| Investors*            | 265,700,000    | 26.57        |
+| Core Team             | 114,500,000    | 11.45        |
 | Service Providers     | 19,800,000     | 1.98         |
 
-* Pre-seed investor has rights to 23% of token allocation at each token issuance.
+   *Pre-seed investor has rights to 23% of token allocation at each token issuance.
 
 <p align="center" width="100%">
-    <img width="75%" src="./assets/tokenomics-distribution-chart-v1.jpg">
+    <img width="75%" src="./assets/token-allocation-pie-230228.png">
 </p>
 
 ### Token Staking and Delegated Staking
@@ -113,22 +111,20 @@ Tokens distributed to Investors and the Core Team are initially locked up follow
 ### Token Unlocking Schedule
 _This section is normative_
 
-| RECIPIENT             | TOKEN AMOUNT   | UNLOCK AFTER    | UNLOCKED PERIOD |
-|-----------------------|----------------|-----------------|-----------------|
-| Contributor Community | 20,000,000     | 0 months        | 60 months       |
-| Public Offering       | 10,000,000     | 0 months        | 0 months        |
-| Community Reserve     | 436,000,000    | 0 months        | 60 months       |
-| Market Makers         | 20,000,000     | 0 months        | 0 months        |
-| Pre-Seed Investor*    | 100,000,000    | 12 months       | 36 months       |
-| Seed Investors        | 54,200,000     | 6 months        | 30 months       |
-| Strategic Investors   | 160,000,000    | 6 months        | 30 months       |
-| Core Team             | 180,000,000    | 12 months       | 36 months       |
-| Service Providers     | 19,800,000     | 12 months       | 12 months       |
+| RECIPIENT             | UNLOCK AFTER    | UNLOCKED PERIOD |
+|-----------------------|-----------------|-----------------|
+| Contributor Community | 0 months        | 60 months       |
+| Public Offering       | 0 months        | 0 months        |
+| Community Reserve     | 0 months        | 60 months       |
+| Market Makers         | 0 months        | 0 months        |
+| Investors             | 12 months       | 48 months       |
+| Core Team             | 12 months       | 48 months       |
+| Service Providers     | 12 months       | 48 months       |
 
 The chart below shows the token unlocking schedule in graphical form:
 
 <p align="center" width="150%">
-    <img width="75%" src="./assets/Unlock-chart-2.png">
+    <img width="75%" src="./assets/token-unlock-bar-230228.png">
 </p>
 
 ## Token Value
