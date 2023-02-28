@@ -26,7 +26,7 @@ The initial token supply is 1,000,000,000 OBX. There is no minting or burning in
 
 The allocations aim to reward ongoing participation in Obscuro and minimise short-termism. The largest allocations with unlocking from the get-go are for community members, third-party integrators and application developers building on top of Obscuro so they can grow and succeed alongside Obscuro.
 
-An airdrop has been intentionally omitted from the allocation because typically they do not benefit projects in the medium to long term. However where a responsible airdrop program can be used to drive adoption of Obscuro this decision will be revisted.
+An airdrop has been intentionally omitted from the allocation because typically they do not benefit projects in the medium to long term. However where a responsible airdrop program can be used to drive adoption of Obscuro this decision will be revisited.
 
 
 | RECIPIENT             | TOKEN AMOUNT   | ALLOCATION % |
@@ -75,7 +75,7 @@ Rewards are paid out from a pool of OBX maintained by transaction fees paid in O
 _This section is non-normative_
 
 ### Public Offering and Contributor Community
-The Public OFfering and Contributor Community are important for Obscuro to gain early traction in the wider community, achieve organic growth and for early contributors to be recognised for their efforts. It is gratifying and empowering for community members to be rewarded for being active contributors to a project as opposed to receiving the same treatment as people arriving with potentially no genuine enthusiasm for the project. It is also in the interest of the project to identify the value-adding community members and incentivise them to remain active and continue adding value to Obscuro over the long term.
+The Public Offering and Contributor Community are important for Obscuro to gain early traction in the wider community, achieve organic growth and for early contributors to be recognised for their efforts. It is gratifying and empowering for community members to be rewarded for being active contributors to a project as opposed to receiving the same treatment as people arriving with potentially no genuine enthusiasm for the project. It is also in the interest of the project to identify the value-adding community members and incentivise them to remain active and continue adding value to Obscuro over the long term.
 
 The Contributor Community will be 2% of the total token allocation pool. Contributor Community tokens will be distributed to contributors from the Obscuro community after the launch of Obscuro Mainnet at no cost to the contributor. Contributions are defined, captured, tracked and scored using a decentralised task management tool called Dework. The Dework bounty score indicates how much of the Contributor Community pool a contributor is entitled to. Each contributor's token allocation will be a percentage of their total contributions against the entire community contribution up to the day of Obscuro Mainnet launch.
 
