@@ -90,7 +90,7 @@ The Foundation governance bodies shall include:
 1. A **General Membership** (‘the Participant Community’), which is open to any organisation or individual participating in Obscuro Network, and with privileges and responsibilities as set out in section 6.
 
 Ratified by:
-2. A **Governing Board** (‘the Board’) of 11 representatives (‘Directors’) with privileges and responsibilities as set out 
+2. A **Governing Board** (‘the Board’) of 9 representatives (‘Directors’) with privileges and responsibilities as set out 
 in section 4. 
 
 Controlling:
@@ -153,7 +153,7 @@ The Foundation believes that a broad representation of Participants will result 
 * Of the nine Directors, there should not be more than four Directors from any broad classification, based on a model of {infrastructure provider, application developer, end user, academic, market maker, exchange}.
 * Of the nine Directors, there should not be more than four Directors from any continent, based on a model of {North America, South America, Europe, Asia/Australasia}, to ensure geographic diversity. 
 
-In any voting for Directors, candidates will be considered in order of votes received, but if a diversity limit are reached, the candidate breaching the limit will be skipped and the selection moved to the next candidate who does not breach the limit. For example, if the most-popular candidate represents a corporate group, they will occupy the first seat, and if the second-most-popular candidate represents the same corporate group, they will be skipped in favour of the third-most-popular candidate.
+In any voting for Directors, candidates will be considered in order of votes received, but if a diversity limit is reached, the candidate breaching the limit will be skipped and the selection moved to the next candidate who does not breach the limit. For example, if the most-popular candidate represents a corporate group, they will occupy the first seat, and if the second-most-popular candidate represents the same corporate group, they will be skipped in favour of the third-most-popular candidate.
 
 #### 4.5.4 Establishment of the Board
 ##### 4.5.4.1 Pre-Foundation 
@@ -264,7 +264,7 @@ All Constitutional, Business and Advisory Governance Proposals outlined in secti
 
 Provided quorum is met, Constitutional Governance Proposals shall require a four fifths majority vote to pass. Business Governance and Technical Proposals shall require a two thirds majority vote to pass.
 
-Any approved Proposals shall be put to the Board for legality veto, which shall ratify on a one vote per Director basis.In the case of a tied vote (the odd number of representatives is intended to avoid tied votes) the vote of the Chair shall carry the vote. If the Chair does not vote in the case of a tied vote, the Proposal will not be passed.
+Any approved Proposals shall be put to the Board for legality veto, which shall ratify on a one vote per Director basis. In the case of a tied vote (the odd number of representatives is intended to avoid tied votes) the vote of the Chair shall carry the vote. If the Chair does not vote in the case of a tied vote, the Proposal will not be passed.
 
 All Governance Proposals proposed for consideration of legality by the Board at a meeting shall be circulated in draft form to the members of the Board at least one week prior to the date of the meeting, and the text of such draft Proposals may be altered at the meeting. The Directors shall vote on a one vote per person basis to approve or reject the Governance Proposal. Quorum shall require two thirds of the Directors to vote. Abstention is not a vote. The Board may continue to meet if quorum is not met, but shall be prevented from making any decisions at the meeting. Board decisions by electronic vote without a meeting shall require a vote by two thirds majority of all Directors.
 
