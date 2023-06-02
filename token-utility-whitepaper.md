@@ -45,7 +45,7 @@ The diagram below summarises the different types of staking and the distribution
 There is an occasion where tokens are slashed although this is expected to be very rare. Specifically, operators who use a hacked enclave on their node in an attempt to break the ledger’s integrity will be discovered by the protocol. Their punishment is to have their stake slashed and returned to the Community Reserve.
 
 ## Rewards
-There are two types of node rewards in Obscuro: a reward for submitting a rollup to the Layer 1, and a reward for making a successful challenge to an inaccurate rollup, for example transactions are missing or in the wrong order. During the bootstrapping phase rewards will be made in ETH and the reward will be limited to those nodes which are verifying the accuracy of the signed list of transaction hashes generated. After the bootstrapping phase the rewards will be made in OBX and the reward model extended to include the nodes producing rollups and publishing to the Layer 1.
+There are three types of node rewards in Obscuro: a reward for being an active node and taking part in the lottery to select which node will submit a rollup; a reward for submitting a rollup to the Layer 1; a reward for making a successful challenge to an inaccurate rollup, for example transactions are missing or in the wrong order. During the bootstrapping phase rewards will be made in ETH and the reward will be limited to those nodes which are verifying the accuracy of the signed list of transaction hashes generated. After the bootstrapping phase the rewards will be made in OBX and the reward model extended to include the nodes producing rollups and publishing to the Layer 1.
 
 If a node finds a discrepancy with the rollup published on the Layer 1 network, it can post a challenge including the offending rollup to the Layer 1 network. The management contract will inspect this challenge. If successful during the bootstrapping phase, a reward in ETH is given to the challenging node. After the bootstrapping phase the rewards will be made in OBX. The value of the reward is greater than the gas cost of posting the challenge to incentivise prompt discovery of issues. Additionally the stake of the node which introducted the discrepency will be slashed with the entire stake returning to the Community Reserve.
 
@@ -56,16 +56,14 @@ The allocations of OBX aim to reward ongoing participation in Obscuro and minimi
 | RECIPIENT             | TOKEN AMOUNT   | ALLOCATION % |
 |-----------------------|----------------|--------------|
 | Contributor Community | 20,000,000     | 2.00         |
-| Public Offering       | 10,000,000     | 1.00         |
-| Community Reserve     | 470,000,000    | 47.00        |
-| Investors*            | 328,200,000    | 32.82        |
+| Community Reserve     | 480,000,000    | 48.00        |
+| Investors             | 328,200,000    | 32.82        |
 | Core Team             | 152,000,000    | 15.20        |
 | Service Providers     | 19,800,000     | 1.98         |
 
-   *Pre-seed investor has rights to 23% of token allocation at each token issuance.
 
 <p align="center" width="100%">
-    <img width="75%" src="./assets/tokenomics-distribution-chart-Jun23.jpg">
+    <img width="75%" src="./assets/token-allocation-pie-230228.png">
 </p>
 
 ### Public Offering and Contributor Community
@@ -98,21 +96,20 @@ Tokens distributed to Investors and the Core Team are initially locked up follow
 
 ### Token Unlocking Schedule
 
-| RECIPIENT             | TGE UNLOCK % | UNLOCK AFTER    | UNLOCKING PERIOD |
-|-----------------------|--------------|-----------------|------------------|
-| Contributor Community | 50           | 0 months        | 12 months        |
-| Public Offering       | 50           | 0 months        | 24 months        |
-| Community Reserve     | 11           | 0 months        | 60 months        |
-| Pre-seed investors    | 0            | 12 months       | 48 months        |
-| Seed investors        | 0            | 6 months        | 24 months        |
-| Strategic investors   | 0            | 12 months       | 36 months        |
-| Core Team             | 0            | 12 months       | 48 months        |
-| Service Providers     | 0            | 12 months       | 48 months        |
+| RECIPIENT             | TGE UNLOCK % | UNLOCK CLIFF    | POST-CLIFF UNLOCKING PERIOD |
+|-----------------------|--------------|-----------------|-----------------------------|
+| Contributor Community | 100          | 0 months        | 0 months                    |
+| Community Reserve     | 11           | 0 months        | 60 months                   |
+| Pre-seed investors    | 0            | 12 months       | 48 months                   |
+| Seed investors        | 0            | 6 months        | 24 months                   |
+| Strategic investors   | 0            | 12 months       | 36 months                   |
+| Core Team             | 0            | 12 months       | 48 months                   |
+| Service Providers     | 0            | 12 months       | 48 months                   |
 
 The chart below shows the token unlocking schedule in graphical form:
 
 <p align="center" width="150%">
-    <img width="100%" src="./assets/token-unlock-bar-230601.png">
+    <img width="100%" src="./assets/token-unlock-bar-230602.png">
 </p>
 
 
