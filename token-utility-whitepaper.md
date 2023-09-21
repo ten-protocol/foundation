@@ -1,4 +1,4 @@
-# Token Utility Whitepaper - v2.1
+# Token Utility Whitepaper - v2.2
 
 ## Introduction
 A token economy is non-trivial and continues to be an area of much research and debate in the Web3 community. This proposal document is just that, a proposal which is intended to deliver a viable starting point for an Obscuro token economy. The economic model is expected to evolve over the lifetime of Obscuro via governance proposals.
@@ -98,18 +98,18 @@ Tokens distributed to Investors and the Core Team are initially locked up follow
 
 | RECIPIENT             | TGE UNLOCK % | UNLOCK CLIFF    | POST-CLIFF UNLOCKING PERIOD |
 |-----------------------|--------------|-----------------|-----------------------------|
-| Contributor Community | 100          | 0 months        | 0 months                    |
-| Community Reserve     | 11           | 0 months        | 60 months                   |
+| Contributor Community | 5            | 0 months        | 24 months                   |
+| Community Reserve     | 1.25         | 12 months       | 60 months                   |
 | Pre-seed investors    | 0            | 12 months       | 48 months                   |
-| Seed investors        | 0            | 0 months        | 24 months                   |
-| Strategic investors   | 0            | 6 months        | 36 months                   |
+| Seed investors        | 0            | 3 months        | 24 months                   |
+| Strategic investors   | 5            | 6 months        | 36 months                   |
 | Core Team             | 0            | 12 months       | 48 months                   |
 | Service Providers     | 0            | 12 months       | 48 months                   |
 
 The chart below shows the token unlocking schedule in graphical form:
 
 <p align="center" width="150%">
-    <img width="100%" src="./assets/tokenomics-unlock-chart-v2.1.jpg">
+    <img width="100%" src="./assets/emission-sept23.png">
 </p>
 
 
