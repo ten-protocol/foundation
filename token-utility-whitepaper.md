@@ -1,4 +1,4 @@
-# Token Utility Whitepaper - v2.2
+# Token Utility Whitepaper - v2.3
 
 ## Introduction
 A token economy is non-trivial and continues to be an area of much research and debate in the Web3 community. This proposal document is just that, a proposal which is intended to deliver a viable starting point for an Obscuro token economy. The economic model is expected to evolve over the lifetime of Obscuro via governance proposals.
@@ -56,14 +56,14 @@ The allocations of OBX aim to reward ongoing participation in Obscuro and minimi
 | RECIPIENT             | TOKEN AMOUNT   | ALLOCATION % |
 |-----------------------|----------------|--------------|
 | Contributor Community | 20,000,000     | 2.00         |
-| Community Reserve     | 480,000,000    | 48.00        |
-| Investors             | 328,200,000    | 32.82        |
+| Community Reserve     | 531,500,000    | 53.15        |
+| Investors             | 276,700,000    | 27.67        |
 | Core Team             | 152,000,000    | 15.20        |
 | Service Providers     | 19,800,000     | 1.98         |
 
 
 <p align="center" width="100%">
-    <img width="75%" src="./assets/token-allocation-pie-230228.png">
+    <img width="75%" src="./assets/token-allocation-pie-sept23.png">
 </p>
 
 ### Public Offering and Contributor Community
@@ -75,7 +75,7 @@ The Public Offering event and Contributor Community distribution will be conduct
 
 
 ### Community Reserve
-The Community Reserve exists to run and enhance the Obscuro platform and develop and evolve the Obscuro ecosystem over time.  The Obscuro Foundation DAO has oversight of how the Community Reserve is put to use. Examples include engagement with engineering talent, or protocol developers, to further develop the Obscuro platform using tokens as a form of incentive, settling of legal fees and covering other operational costs, security tests and bug bounty programs, incentivising members of the community to make meaningful contributions to Obscuro via incentive programs, grants, hackathons and competitions.
+The Community Reserve exists to run and enhance the Obscuro platform and develop and evolve the Obscuro ecosystem over time.  The Obscuro Foundation DAO has oversight of how the Community Reserve is put to use. Examples include engagement with engineering talent, or protocol developers, to further develop the Obscuro platform using tokens as a form of incentive, settling of legal fees and covering other operational costs, security tests and bug bounty programs, incentivising members of the community to make meaningful contributions to Obscuro via incentive programs, grants, hackathons and competitions. Liquidity provisioning is also made available from the Community Reserve.
 
 ### Investors and Core Team
 Providing investors and the Core Team with the opportunity to participate in the Obscuro network is an important part of their contribution to the wider Obscuro ecosystem. Token allocations to these groups encourage continued engagement, interest and contributions. Additionally, application builder engagement in Obscuro is a top priority and nurturing deep engagements with partners who can contribute to Obscuro in a meaningful way is vital. Encouraging investors to remain actively engaged will help open doors to high quality applications within their portfolio of companies and encourage their migration to Obscuro.
@@ -99,7 +99,7 @@ Tokens distributed to Investors and the Core Team are initially locked up follow
 | RECIPIENT             | TGE UNLOCK % | UNLOCK CLIFF    | POST-CLIFF UNLOCKING PERIOD |
 |-----------------------|--------------|-----------------|-----------------------------|
 | Contributor Community | 5            | 0 months        | 24 months                   |
-| Community Reserve     | 1.25         | 12 months       | 60 months                   |
+| Community Reserve     | 1            | 12 months       | 60 months                   |
 | Pre-seed investors    | 0            | 12 months       | 48 months                   |
 | Seed investors        | 0            | 3 months        | 24 months                   |
 | Strategic investors   | 5            | 6 months        | 36 months                   |
@@ -124,4 +124,5 @@ Shill_Pill,
 Enforcer AI,
 Yarco,
 Alex B,
-Alex Ye.
+Alex Ye,
+Richie.
