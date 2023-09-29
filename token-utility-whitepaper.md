@@ -1,4 +1,4 @@
-# Token Utility Whitepaper - v2.3
+# Token Utility Whitepaper - v2.4
 
 ## Introduction
 A token economy is non-trivial and continues to be an area of much research and debate in the Web3 community. This proposal document is just that, a proposal which is intended to deliver a viable starting point for an Obscuro token economy. The economic model is expected to evolve over the lifetime of Obscuro via governance proposals.
@@ -8,7 +8,7 @@ The eventual Obscuro implementation depends upon a network of intercommunicating
 This tokenomics whitepaper describes both the tokenomics for the bootstrapping phase of the Obscuro network and the long term intentions for OBX’s utility. In summary, OBX will have four utilities after the bootstrapping phase and once the long term plans for Obscuro are in place:
 
 1.	To provide a reward to incentivise node operators to correctly operate Obscuro nodes and provide a reliable service.
-2.	A medium in which users can pay transaction fees and node operators can pay their stake and receive rewards to cover operational costs.
+2.	A medium in which node operators can pay their stake and receive rewards to cover operational costs.
 3.	A means to vote on proposals for changes to Obscuro via a governance model.
 4.	A means to fund and incentivise the ongoing development of the Obscuro ecosystem via development opportunities, grants and competitions.
 
@@ -16,7 +16,7 @@ This tokenomics whitepaper describes both the tokenomics for the bootstrapping p
 
 The eventual Obscuro implementation and the final outcome of this tokenomics proposal assumes an Obscuro network with significant traction. To get there we estimate Obscuro will need at least one year, most likely more. During these early days of bootstrapping we have to take into consideration ease of adoption, code maturity and security. A low friction user and developer experience has been an obsession within Obscuro's design underpining many decisions.
 
-Other major Layer 2 solutions have opted for a pragmatic approach where they have started out paying gas fees in ETH, Ethereum's native token, rather than their native token. We propose that Obscuro starts out similarly to these Layer 2 solutions with transaction fees and rewards being in ETH whilst the OBX token's utility remains in place as a means of providing a node stake and as a means of voting on proposals for changes to Obscuro via a governance model.
+Other major Layer 2 solutions have opted for a pragmatic approach where they have started out paying gas fees in ETH, Ethereum's native token, rather than their native token. We propose that Obscuro starts out similarly to these Layer 2 solutions with transaction fees and rewards being in ETH whilst the OBX token's utility remains in place as a means of providing a node stake and as a means of voting on proposals for changes to Obscuro via a governance model. Further utility for OBX should be expected as Obscuro matures.
 
 ## Token Supply
 
