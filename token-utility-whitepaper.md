@@ -1,6 +1,6 @@
 # Token Utility Whitepaper - v2.4
 
-## Introduction
+## Introduction 
 A token economy is non-trivial and continues to be an area of much research and debate in the Web3 community. This proposal document is just that, a proposal which is intended to deliver a viable starting point for an Obscuro token economy. The economic model is expected to evolve over the lifetime of Obscuro via governance proposals.
 
 The eventual Obscuro implementation depends upon a network of intercommunicating Obscuro nodes to achieve its decentralisation, scalability and confidentiality promises. Obscuro node operators incur operating costs for which they need to be remunerated. This is achieved through a rewards and incentives model. Obscuro's native token, OBX, provides the means for the Obscuro community to vote on change proposals to Obscuro and for ongoing development of the Obscuro ecosystem. The long-term Obscuro tokenomics have been designed to be circulatory and self-sustaining with no human intervention and no subsidies. Instead decentralised Obscuro smart contracts handle all token movements (transaction fees, rewards and staking).
