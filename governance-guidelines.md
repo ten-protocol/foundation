@@ -8,7 +8,7 @@ This is a set of governance guidelines for the Ten Network Foundation. It provid
 ### 1.1 Introduction
 Ten brings privacy to Ethereum. Architected as a Layer 2 (L2) network and using Ethereum as the Layer 1 (L1), Ten scales Ethereum with faster, cheaper transactions, while inheriting its security and ecosystem strengths. But in addition, Ten allows users to maintain full privacy when interacting with any Ethereum smart contracts, and allows smart contracts themselves to maintain private state. Ten provides the entire EVM - every Ethereum application can become a private Ten application with few changes. The implementation supports existing Ethereum tooling like MetaMask, Remix, Hardhat and Ethers.js.
 
-Further details of the protocol are laid out in the White Paper](https://whitepaper.obscu.ro) from 2021.
+Further details of the protocol are laid out in the [White Paper](https://whitepaper.obscu.ro) from 2021.
 
 Unlike some other L2s, Ten itself is decentralised and permissionless. This means that anyone can launch a Ten validator and connect it to the Ten network, and that validator can take part in securing the network and processing transactions on it. 
  Ten is both a protocol and a network, and both require governance and controlled evolution in a way which fits with the decentralised and permissionless model. Ten Network exists to operate the protocol of Ten, which is specified in the "White Paper" of the Ten Open Source Project codebase, but later may be formalised in a "Yellow Paper" protocol specification document, which then will become canonical.
