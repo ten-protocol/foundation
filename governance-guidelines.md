@@ -1,20 +1,19 @@
 # Governance Guidelines
 
-This is a set of governance guidelines for the Obscuro Network Foundation. It provides a framework for the Foundation’s Participants and Board, to steer and govern Obscuro Network effectively to realise its potential. It is not a set of binding legal obligations.
+This is a set of governance guidelines for the Ten Network Foundation. It provides a framework for the Foundation’s Participants and Board, to steer and govern Ten Network effectively to realise its potential. It is not a set of binding legal obligations.
 
-## 1. Background to Obscuro and the Network
+## 1. Background to Ten and the Network
 
 
 ### 1.1 Introduction
-Obscuro brings privacy to Ethereum. Architected as a Layer 2 (L2) network and using Ethereum as the Layer 1 (L1), Obscuro scales Ethereum with faster, cheaper transactions, while inheriting its security and ecosystem strengths. But in addition, Obscuro allows users to maintain full privacy when interacting with any Ethereum smart contracts, and allows smart contracts themselves to maintain private state. Obscuro provides the entire EVM - every Ethereum application can become a private Obscuro application with few changes. The implementation supports existing Ethereum tooling like MetaMask, Remix, Hardhat and Ethers.js.
+Ten brings privacy to Ethereum. Architected as a Layer 2 (L2) network and using Ethereum as the Layer 1 (L1), Ten scales Ethereum with faster, cheaper transactions, while inheriting its security and ecosystem strengths. But in addition, Ten allows users to maintain full privacy when interacting with any Ethereum smart contracts, and allows smart contracts themselves to maintain private state. Ten provides the entire EVM - every Ethereum application can become a private Ten application with few changes. The implementation supports existing Ethereum tooling like MetaMask, Remix, Hardhat and Ethers.js.
 
-Further details of the protocol are laid out in the [Obscuro White Paper](https://whitepaper.obscu.ro) from 2021.
+Further details of the protocol are laid out in the [White Paper](https://whitepaper.obscu.ro) from 2021.
 
-Unlike some other L2s, Obscuro itself is decentralised and permissionless. This means that anyone can launch an Obscuro validator and connect it to the Obscuro network, and that validator can take part in securing the network and processing transactions on it. 
+Unlike some other L2s, Ten itself is decentralised and permissionless. This means that anyone can launch a Ten validator and connect it to the Ten network, and that validator can take part in securing the network and processing transactions on it. 
+ Ten is both a protocol and a network, and both require governance and controlled evolution in a way which fits with the decentralised and permissionless model. Ten Network exists to operate the protocol of Ten, which is specified in the "White Paper" of the Ten Open Source Project codebase, but later may be formalised in a "Yellow Paper" protocol specification document, which then will become canonical.
 
-Obscuro is both a protocol and a network, and both require governance and controlled evolution in a way which fits with the decentralised and permissionless model. Obscuro Network exists to operate the protocol of Obscuro, which is specified in the "White Paper" of the Obscuro Open Source Project codebase, but later may be formalised in a "Yellow Paper" protocol specification document, which then will become canonical.
-
-The Obscuro project and network aim to realise the following values:
+The Ten project and network aim to realise the following values:
 * Decentralised, meaning that there is no central infrastructure or decision-making organisation beyond that which is needed for coordination and governance.
 * Democratic, allowing all participants to have a voice in the future of the protocol and network, through direction of a governance organisation.
 * Permissionless, so that anyone can participate, whether as an end-user, application builder, infrastructure operator, or community builder.
@@ -27,9 +26,9 @@ Some of these values appear to be in contradiction, and a middle path must be fo
 
 Additionally, it is anticipated that the objective of decentralisation may be achieved over a period of time. Initially, some parts of the L2 architecture will be decentralised and some parts will be centralised and managed by an Operator, to be appointed by the Foundation. Of course, the L1 is decentralised from the outset. This step-wise approach allows the overall requirement of decentralisation to be met by the overall L1/L2 system, while remaining pragmatic and flexible about how it is achieved. 
 
-### 1.2	Reason for the Obscuro Network Foundation
+### 1.2	Reason for the Ten Network Foundation
 
-Until now, Obscuro Limited, a U.K. registered limited liability company, has set up and governed by default the Obscuro protocol and test network currently. This includes making key decisions around establishing, maintaining and updating standards and the software which implements them, policies, and procedures for participation in, and use of, the test network. This arrangement is strongly community-oriented, but is not yet decentralised in a way which befits a decentralised protocol. The community expects that once the protocol software is sufficiently capable and mature, a production network will be established, and data and value managed on this network will become permanent.
+Until now, Ten Limited, a U.K. registered limited liability company, has set up and governed by default the Ten protocol and test network currently. This includes making key decisions around establishing, maintaining and updating standards and the software which implements them, policies, and procedures for participation in, and use of, the test network. This arrangement is strongly community-oriented, but is not yet decentralised in a way which befits a decentralised protocol. The community expects that once the protocol software is sufficiently capable and mature, a production network will be established, and data and value managed on this network will become permanent.
 
 Once this transition to a production network is ready to be implemented, it is critically important that a commercial entity should not control the network. It should be governed transparently to its Participants, with a fair and stable structure. Several options have been considered for governance, principally a direct DAO (Distributed Autonomous Organisation) without a formal legal entity, and a not-for-profit formal legal entity. 
 
@@ -42,35 +41,35 @@ A direct DAO model has been adopted by a number of projects and networks.
 
 Many other decentralised networks establish a legal entity to govern their rules and behaviour. A legal entity is a requirement if the network is to exist within the existing international legal frameworks; as far as national law is concerned, if a legal entity does not exist, then individual "natural persons" become directly accountable.
 
-### 1.4 Choice for Obscuro Network
+### 1.4 Choice for Ten Network
 
-Analysis and feedback show that Obscuro Network will be most effectively governed via a Foundation, a not-for-profit, independent entity which is domiciled in a legal jurisdiction and which can be shown to comply with the local and international laws. One of the implications of choosing to incorporate a Foundation is that it will require the involvement of people to represent it and be accountable for its actions to the jurisdiction in which it is based. In order to meet the value of being democratic, those people who represent the Foundation (for example, as members of a governing Board) will need to be elected by Network Participants, and in order to be fair, anyone should be able to put themselves forward as a representative.
+Analysis and feedback show that Ten Network will be most effectively governed via a Foundation, a not-for-profit, independent entity which is domiciled in a legal jurisdiction and which can be shown to comply with the local and international laws. One of the implications of choosing to incorporate a Foundation is that it will require the involvement of people to represent it and be accountable for its actions to the jurisdiction in which it is based. In order to meet the value of being democratic, those people who represent the Foundation (for example, as members of a governing Board) will need to be elected by Network Participants, and in order to be fair, anyone should be able to put themselves forward as a representative.
 
-**The Foundation is the legal embodiment of the community, and is structured so that members of the community make all decisions, whether directly or indirectly. There must be no other unseen powers or influence holders. Every change to the Obscuro Protocol, the Network, and governance must follow a path laid out in this document.**
+**The Foundation is the legal embodiment of the community, and is structured so that members of the community make all decisions, whether directly or indirectly. There must be no other unseen powers or influence holders. Every change to the Ten Protocol, the Network, and governance must follow a path laid out in this document.**
 
-## 2. The Obscuro Network Foundation
+## 2. The Ten Network Foundation
 
 
 ### 2.1	Mission
 
-Following on from the Obscuro White Paper, we see the mission of the Obscuro Network Foundation to achieve the vision of Obscuro - whereby transactions of users can be recorded in an immutable ledger, benefiting from the power of smart contracts which control the flow of value and data and enable useful applications, while maintaining privacy within the confines of local and international law.
+Following on from the White Paper, we see the mission of the Ten Network Foundation to achieve the vision of Ten - whereby transactions of users can be recorded in an immutable ledger, benefiting from the power of smart contracts which control the flow of value and data and enable useful applications, while maintaining privacy within the confines of local and international law.
 
 Achieving this vision and making it ubiquitous will involve running and maintaining a stable and secure Network with open and fair governance, while also promoting the Network so as to ensure its more widespread use.
 
-Following on this, the Obscuro Network Foundation shall strive for the following qualities in executing its mission:
+Following on this, the Ten Network Foundation shall strive for the following qualities in executing its mission:
 
 * Fairness and openness – Participants can join the Network and the Network’s governing board, elected through a straightforward voting process.
 * Democracy and transparency – Key decisions and rationale are made by and shared openly with Participants. 
 * Stability (with a long-term view) with flexibility – The terms of representatives will last three years with a staggered handoff, and the governance model will be flexible to adapt where required.
-* Efficiency – Staying a lean organisation, sufficient to commission and monitor any external providers to run any services, physical infrastructure, or operational processes that may be needed to achieve the vision of Obscuro. 
+* Efficiency – Staying a lean organisation, sufficient to commission and monitor any external providers to run any services, physical infrastructure, or operational processes that may be needed to achieve the vision of Ten. 
 * Cost effectiveness - The Foundation will strive to run its own operations as efficiently as possible, and ensure that the cost of running infrastructure borne by node operators and end users is as low as possible. The Foundation shall not be a profit-making entity. The Foundation may be allocated tokens, and hold them on behalf of the community. These tokens may be sold in order to fund further development of the protocol, but only in order to recompense Operator(s) and Protocol Developer(s), and as such will remain not-for-profit. 
-* Independence – Obscuro Network Foundation makes its own decisions (within the law), and is not following another entity’s rules. The Foundation shall focus on the following commitments over the long-term:
+* Independence – Ten Network Foundation makes its own decisions (within the law), and is not following another entity’s rules. The Foundation shall focus on the following commitments over the long-term:
 
 * Maintain the long-term standards, services and open governance model of the Protocol and Network. 
 * Hold any Trust Roots required for the Network.
 * Commission the provision and operation of infrastructure and services for the Network, both of technical services, and infrastructure needed for meetings, events and collaborative discussions, and provide structure around the business and technical governance of the Network.
-* Facilitate a diverse and vibrant community of industry experts, Obscuro contributors, users and services, including developers, service and application builders, and end users.
-* Enable the ubiquity and utility of Obscuro throughout all applicable industries and commercial use cases.
+* Facilitate a diverse and vibrant community of industry experts, Ten contributors, users and services, including developers, service and application builders, and end users.
+* Enable the ubiquity and utility of Ten throughout all applicable industries and commercial use cases.
 * Balance the divergent interests of a wide range of stakeholders, including network infrastructure operators, end users, application builders, community contributors, and investors in the project.
 
 ### 2.2	Structure of the Foundation
@@ -87,7 +86,7 @@ Stiftung are purely not for profit enterprises and commercial activities are gen
 The Foundation is defined in a set of Articles of Association.
 
 The Foundation governance bodies shall include:
-1. A **General Membership** (‘the Participant Community’), which is open to any organisation or individual participating in Obscuro Network, and with privileges and responsibilities as set out in section 6.
+1. A **General Membership** (‘the Participant Community’), which is open to any organisation or individual participating in Ten Network, and with privileges and responsibilities as set out in section 6.
 
 Ratified by:
 2. A **Governing Board** (‘the Board’) of 9 representatives (‘Directors’) with privileges and responsibilities as set out 
@@ -95,13 +94,13 @@ in section 4.
 
 Controlling:
 3. One or more **Operators**, which provides reliable, performant and secure operation of any centralised infrastructure required by the stepwise approach to decentralisation set out in [Section 1.1](#11-introduction).
-4. One or more **Protocol Developers**, which provide software development services for Obscuro software, ensuring that it remains functionally rich, meeting the requirements set out by Participants, and secure to existing and emerging vulnerabilities.
+4. One or more **Protocol Developers**, which provide software development services for Ten software, ensuring that it remains functionally rich, meeting the requirements set out by Participants, and secure to existing and emerging vulnerabilities.
 
 Any change to the structure of the Foundation is a constitutional change, described in section 5.1.
 
 ## 3. Decision-Making Principles
 
-1. The Obscuro Network and Protocol are governed in a decentralised manner by the community.
+1. The Ten Network and Protocol are governed in a decentralised manner by the community.
 2. The community will make decisions and implement change according to the Governance Proposal rules set out in section 5, by putting forward and voting on proposals.
 3. There will be a threshold of voting participation, set out in section 6, which will permit voting on proposals. Voting will be on the basis of one eligible member, one vote, i.e. if utility token holding is used as a measure of participation, then voting power will not be proportional to the number of tokens held.
 
@@ -109,7 +108,7 @@ Any change to the structure of the Foundation is a constitutional change, descri
 
 ### 4.1	Role of the Board
 
-The primary goal of the Board is to ensure the legal compliance of the Foundation; the secondary goal is the stable and secure operation of the Network; and the tertiary goal is to achieve the vision of Obscuro laid out in section 2.1. The board has the power of veto over decisions made by the community arising from the formal proposal voting process if and only if these decisions would cause the Foundation to act illegally within the jurisdiction of incorporation.
+The primary goal of the Board is to ensure the legal compliance of the Foundation; the secondary goal is the stable and secure operation of the Network; and the tertiary goal is to achieve the vision of Ten laid out in section 2.1. The board has the power of veto over decisions made by the community arising from the formal proposal voting process if and only if these decisions would cause the Foundation to act illegally within the jurisdiction of incorporation.
 
 Directors are expected to comply with the Conflict of Interest policy, which includes a responsibility to disclose promptly any conflicts that may arise, and meet the expected standards specified in the [Code of Conduct Guidelines](../policy/code-conduct.md) for ethical conduct and breach reporting.
 
@@ -122,15 +121,14 @@ Primary decisions of the Foundation must be made by the community through a comm
 It is the duty of the Board to monitor the Operator's performance in operating any centralised infrastructure to ensure that the Network operates in an effective, efficient and ethical manner. The Operator has no influence on the development of the Network’s strategic and tactical plans, and simply receives instructions on what infrastructure it should operate from the Foundation. That said, the Foundation will provide KPIs to the Operator, and will hold the Operator responsible for meeting those. The Operator will have limited discretion of _how_ it delivers the KPIs at the infrastructure level.
 
 ### 4.4	Relationship of the Board with the Protocol Developer(s)
-
-Obscuro is open-source software managed using standard change processes on [GitHub](https://github/com/obscuronet). Any Participant may fork the software or submit pull requests to the standard code base. Additionally, the Foundation may commission development of the protocol software to commercial software companies or professionals. It is the duty of the Board to monitor any software supplier's performance. The Protocol Developer has no influence on the development of the Network’s strategic and tactical plans, and simply receives instructions from the Foundation on changes to the protocol it should make. That said, the Foundation will provide KPIs to the Protocol Developer, and will hold the Protocol Developer responsible for meeting those. The Protocol Developer will have limited discretion of _how_ it delivers the KPIs at the software level.
+ Ten is open-source software managed using standard change processes on [GitHub](https://github/com/obscuronet). Any Participant may fork the software or submit pull requests to the standard code base. Additionally, the Foundation may commission development of the protocol software to commercial software companies or professionals. It is the duty of the Board to monitor any software supplier's performance. The Protocol Developer has no influence on the development of the Network’s strategic and tactical plans, and simply receives instructions from the Foundation on changes to the protocol it should make. That said, the Foundation will provide KPIs to the Protocol Developer, and will hold the Protocol Developer responsible for meeting those. The Protocol Developer will have limited discretion of _how_ it delivers the KPIs at the software level.
 
 Operators and Protocol Developers shall report on their delivery performance with a format and schedule to be specified by the Foundation.
 
 ### 4.5	Composition and Establishment of the Board
 
 #### 4.5.1 Size
-The Board shall consist of nine voting members (‘Directors’) in total, to allow broad representation but maintain an agile decision-making ability. The selection process (using the Participant Community) is intended to ensure that the Board is composed of members who display diversity in geography, culture, skills, experience and perspective, and that the abilities and interests of Directors are aligned with those of Obscuro.
+The Board shall consist of nine voting members (‘Directors’) in total, to allow broad representation but maintain an agile decision-making ability. The selection process (using the Participant Community) is intended to ensure that the Board is composed of members who display diversity in geography, culture, skills, experience and perspective, and that the abilities and interests of Directors are aligned with those of Ten.
 
 The Directors will have three-year terms (unless the director resigns or leaves for another reason) and can be re-appointed without limit. Appointment will be effective immediately. 
 
@@ -139,11 +137,11 @@ The Chair of the board will be elected for a one year term by a vote of the Dire
 #### 4.5.2 Participation Criteria
 Participants shall be directed to vote to ensure that the Board is composed of Directors who in the aggregate produce the broadest diversity on the Board, consistent with meeting the other criteria. In addition, the Board is to be comprised of individuals who can demonstrate to Participants they meet the following requirements:
 
-* Hold an understanding and appreciation of the Obscuro protocol and community purpose.  
+* Hold an understanding and appreciation of the Ten protocol and community purpose.  
 * Have an awareness of cultural and geographic perspectives.
 * Demonstrate integrity, intelligence and objectivity.
 * Can work and communicate in written and spoken English. 
-* Understand the Web3 landscape, and where Obscuro sits within it.
+* Understand the Web3 landscape, and where Ten sits within it.
 * Not have a history of criminality and bankruptcy.
 
 #### 4.5.3 Diversity Objectives
@@ -208,10 +206,10 @@ For all Governance Proposals, decisions and the rationale for the decision shall
 ### 5.2	Business Governance Proposals
 
 #### 5.2.1 Access Standards
-The Obscuro system can be accessed by using software which implements the set of technical protocols which define compatibility (see 5.3.1) above). The reference implementation of this software is open source and freely accessible at [www.obscu.ro](https://www.obscu.ro).
+The Ten system can be accessed by using software which implements the set of technical protocols which define compatibility (see 5.3.1) above). The reference implementation of this software is open source and freely accessible at [GitHub/ten-protocol](https://www.github.com/ten-protocol).
 
 #### 5.2.2	Budget, Expenditure and Participation Fees
-The Board shall annually prepare and approve a budget for the operations of the Foundation, taking into account the not-for-profit status of the Foundation and the mission to promote the Obscuro Ecosystem.
+The Board shall annually prepare and approve a budget for the operations of the Foundation, taking into account the not-for-profit status of the Foundation and the mission to promote the Ten Ecosystem.
 
 The Operator shall charge the Foundation for services that the Operator provides under the requirements of the contract with the Foundation, including management of Participants, Network participation and access services, and sequencer services.
 
@@ -230,7 +228,7 @@ Note that Participants do not go through a KYC process and are not subject to Sa
 
 Audit: the Board may request an audit of the activities and services provided by the Operator, no more frequently than every year, unless an emergency audit is authorised through a Business Governance Proposal.
 
-Marketing, Trademark and Branding: Obscuro Limited shall commit to license the Obscuro trademark to the Foundation. The Foundation shall manage its own brand and any trademarks created.
+Marketing, Trademark and Branding: Obscuro Limited shall commit to license the Ten trademark to the Foundation. The Foundation shall manage its own brand and any trademarks created.
 
 Certifications: Where the Foundation provides standards for certification of organisations, individuals or technologies, the Board shall approve the standards and processes for certification.
 
@@ -241,17 +239,17 @@ Policies covering areas of operation not covered by the Constitution (e.g. code 
 ### 5.3	Technical Governance Proposals
 
 #### 5.3.1	Technical Standards
-There is a set of technical standards, such as ‘network parameters’, which all Obscuro Network nodes need to comply with in order to guarantee technical compatibility to other nodes and services within the Network. While Obscuro has stability and backwards compatibility as key design goals, there may be circumstances under which these standards will need to change. Where these changes require participants in the Network to update to remain compatible, these changes will be subject to Governance Proposals. 
+There is a set of technical standards, such as ‘network parameters’, which all Ten Network nodes need to comply with in order to guarantee technical compatibility to other nodes and services within the Network. While Ten has stability and backwards compatibility as key design goals, there may be circumstances under which these standards will need to change. Where these changes require participants in the Network to update to remain compatible, these changes will be subject to Governance Proposals. 
 
 Changes to technical standards, such as some network parameters, shall require formal design processes, and the Protocol Developer may choose to undertake technical due diligence with Participants prior to formally delivering a change to the technical standards.
 
-The Obscuro open source software is the reference implementation for the core technical standards adopted for the Network. Obscuro implementations and distributions can vary in their internal details, but their core interfaces and Obscuro protocol implementation must conform to this standard to be compatible with the Network. 
+The Ten open source software is the reference implementation for the core technical standards adopted for the Network. Ten implementations and distributions can vary in their internal details, but their core interfaces and Ten protocol implementation must conform to this standard to be compatible with the Network. 
 
 #### 5.3.2	Consensus Standards
 The Foundation shall set minimum standards for aggregator nodes, to allow their use for different applications. 
 
 #### 5.3.3	Dispute Resolution Process
-Disputes between Participants arising from the operation of a Obscuro application are anticipated to be resolved by the 
+Disputes between Participants arising from the operation of a Ten application are anticipated to be resolved by the 
 application developer and its community. If necessary, Participants may escalate to the Foundation by creating a Technical Governance Proposal.
 
 ### 5.4	Emergency Governance Proposals
@@ -260,7 +258,7 @@ Certain Network incidents, which could impact one or more Network participants a
 
 ### 5.5	Voting
 
-All Constitutional, Business and Advisory Governance Proposals outlined in sections 5.2 and 5.3 shall be presented to the Participants for voting. The Participants shall vote on a one vote per Obscuro account basis to approve or reject the Governance Proposal. Participant quorum shall require one third of the Participants to vote. Abstention is not a vote.
+All Constitutional, Business and Advisory Governance Proposals outlined in sections 5.2 and 5.3 shall be presented to the Participants for voting. The Participants shall vote on a one vote per Ten account basis to approve or reject the Governance Proposal. Participant quorum shall require one third of the Participants to vote. Abstention is not a vote.
 
 Provided quorum is met, Constitutional Governance Proposals shall require a four fifths majority vote to pass. Business Governance and Technical Proposals shall require a two thirds majority vote to pass.
 
@@ -268,7 +266,7 @@ Any approved Proposals shall be put to the Board for legality veto, which shall 
 
 All Governance Proposals proposed for consideration of legality by the Board at a meeting shall be circulated in draft form to the members of the Board at least one week prior to the date of the meeting, and the text of such draft Proposals may be altered at the meeting. The Directors shall vote on a one vote per person basis to approve or reject the Governance Proposal. Quorum shall require two thirds of the Directors to vote. Abstention is not a vote. The Board may continue to meet if quorum is not met, but shall be prevented from making any decisions at the meeting. Board decisions by electronic vote without a meeting shall require a vote by two thirds majority of all Directors.
 
-The Foundation may choose to implement the tracking and voting for Governance Proposals using an on-ledger Obscuro application in an attempt to simplify governance, provide transparency and lower costs, provided the application has been tested thoroughly and has sufficient manual override controls.
+The Foundation may choose to implement the tracking and voting for Governance Proposals using an on-ledger Ten application in an attempt to simplify governance, provide transparency and lower costs, provided the application has been tested thoroughly and has sufficient manual override controls.
 
 ## 6 Participation
 
@@ -296,10 +294,10 @@ Note that Participants do not go through a KYC process and are not subject to Sa
 The Technical Advisory Committee shall have limited participants appointed directly by the Board. Its mandate and charter will be set by the Board. It shall act directly on the instructions of the Board or the Operator, which shall set expected deliverables and timelines. It shall focus on specific technical topics and may have responsibility for the following:
 1. Advise on technical decisions for the Operator.
 2. Advising the Board in technical matters.
-3. Provide feedback on the technical roadmap for Obscuro, from real-world and practical experience gained from observing 
+3. Provide feedback on the technical roadmap for Ten, from real-world and practical experience gained from observing 
 the operation of the Network.
 4. Conducting open design reviews and soliciting public input for technical proposals.
-5. Contributing to the Obscuro open source community from a Network perspective, to ensure that Obscuro retains a coherent, 
+5. Contributing to the Ten open source community from a Network perspective, to ensure that Ten retains a coherent, 
 elegant and practical system design
 
 ### 6.3	Governance Advisory Committee
@@ -311,23 +309,22 @@ The Governance Advisory Committee shall have limited participants appointed dire
 4. Interacting with Regulators
 5. Complaints and Whistle-blowing
 
-## 7 The Obscuro Network Operator(s)
+## 7 The Ten Network Operator(s)
 
-In order to pursue the mission of the Foundation as set out in section 1, there will need to be a set of operational activities, including technical activities such as hosting services, marketing activities, community management and promotion. These activities shall be funded through the participation fees and overseen by the Board, and they will require operational staffing by the Operator(s). It is not envisaged (at least during the first year) that the Obscuro Network Foundation will need separate staff. Administrative operations and meeting facilities will be provided by the Operator.
+In order to pursue the mission of the Foundation as set out in section 1, there will need to be a set of operational activities, including technical activities such as hosting services, marketing activities, community management and promotion. These activities shall be funded through the participation fees and overseen by the Board, and they will require operational staffing by the Operator(s). It is not envisaged (at least during the first year) that the Ten Network Foundation will need separate staff. Administrative operations and meeting facilities will be provided by the Operator.
 
 The Operator shall invoice the Foundation for the costs of operating the Network and minor administrative expenses, initially on a cost-plus basis, and subject to annual review. 
 
 For the first year, Obscuro Limited shall act as the Operator. 
  
 ## 8 Community
-
-Obscuro is a collaborative effort, and part of the Foundation’s mission is to help create and foster a technical community 
-that will benefit all Obscuro solution providers and users. As such, the Foundation will work to encourage further 
+ Ten is a collaborative effort, and part of the Foundation’s mission is to help create and foster a technical community 
+that will benefit all Ten solution providers and users. As such, the Foundation will work to encourage further 
 participation of leading Participants of the ecosystem, including developers, service and solution providers and end 
-users. This community shall work towards furthering the adoption of Obscuro, and contribute to the specific capabilities 
+users. This community shall work towards furthering the adoption of Ten, and contribute to the specific capabilities 
 identified in the technical white paper.
 
-The Obscuro technical community should be broad and open, encouraging participation and active conversations on the 
+The Ten technical community should be broad and open, encouraging participation and active conversations on the 
 technology and applications, but this cannot be mandated by the Foundation.
 
 ### 8.1	Non-Discrimination
