@@ -1,4 +1,4 @@
-# Token Utility Whitepaper - v2.5
+# Token Utility Whitepaper - v2.6
 
 ## Introduction 
 A token economy is non-trivial and continues to be an area of much research and debate in the Web3 community. This proposal document is just that, a proposal which is intended to deliver a viable starting point for a Ten token economy. The economic model is expected to evolve over the lifetime of Ten via governance proposals.
@@ -69,7 +69,7 @@ The allocations of OBX aim to reward ongoing participation in Ten and minimise s
 ### Public Offering and Contributor Community
 The Public Offering and Contributor Community are important for Ten to gain early traction in the wider community, achieve organic growth and for early contributors to be recognised for their efforts. It is gratifying and empowering for community members to be rewarded for being active contributors to a project as opposed to receiving the same treatment as people arriving with potentially no genuine enthusiasm for the project. It is also in the interest of the project to identify the value-adding community members and incentivise them to remain active and continue adding value to Ten over the long term.
 
-Contributor Community tokens will be distributed to contributors from the Ten community after the launch of Ten Mainnet at no cost to the contributor. Contributions are defined, captured, tracked and scored using a decentralised task management tool. The score achieved in the task management tool indicates how much of the Contributor Community pool a contributor is entitled to. Each contributor's token allocation will be a percentage of their total contributions against the entire community contribution up to the day of Ten Mainnet launch.
+Contributor Community tokens will be distributed to contributors from the Ten community after the launch of Ten Mainnet at no cost to the contributor. Contributions are defined, captured, tracked and scored using decentralised task management tooling. The score achieved in the task management tooling indicates how much of the Contributor Community pool a contributor is entitled to. Each contributor's token allocation will be a percentage of their total contributions against the entire community contribution up to the day of Ten Mainnet launch.
 
 The Public Offering event and Contributor Community distribution will be conducted through a reputable third-party private offering manager so the necessary regulatory checks are completed with confidence. 
 
