@@ -109,7 +109,7 @@ Tokens distributed to Investors and the Core Team are initially locked up follow
 The chart below shows the token unlocking schedule in graphical form:
 
 <p align="center" width="150%">
-    <img width="100%" src="./assets/emission-sept23.png">
+    <img width="100%" src="./assets/token-unlock-bar-231206.png">
 </p>
 
 
