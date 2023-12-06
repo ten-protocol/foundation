@@ -63,7 +63,7 @@ The allocations of OBX aim to reward ongoing participation in Ten and minimise s
 
 
 <p align="center" width="100%">
-    <img width="75%" src="./assets/token-allocation-pie-nov23.png">
+    <img width="75%" src="./assets/token-allocation-pie-231206.png">
 </p>
 
 ### Public Offering and Contributor Community
