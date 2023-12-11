@@ -273,7 +273,7 @@ The Foundation may choose to implement the tracking and voting for Governance Pr
 ### 6.1	General Membership
 
 Voting participation is open to any potential Participant or token holder on the Network, subject to meeting the following criteria:
-1. Hold at least 1000 OBX utility tokens (used to pay for transactions on the network).
+1. Hold at least 1000 TEN utility tokens (used to pay for transactions on the network).
 
 The Participant Community has the right to:
 1. Propose a formal Governance Proposal to the Foundation for voting. This must meet the appropriate standards and formats.
