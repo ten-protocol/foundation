@@ -11,11 +11,6 @@ There are two types of member: Founding Member (members present at the inaugurat
 
 Members can be expelled by the Governance Committee following a majority vote by the General Assembly if a member is in breach of any the Association's regulations or if the member engages in behaviour which is detrimental to the interests of the Association.  
 
-This Venn diagram shows how the different member types are related:
-
-![Member-Venn](https://github.com/ten-protocol/foundation/assets/24224467/11e92cab-e5b3-4d47-82ad-103737cf581c)
-
-
 ## Voting
 Each ordinary member has one vote and each founding member has two votes.  
 To be eligible to vote, you must be a member of the Association and you must hold at least 1000 TEN tokens << TODO: unclear where this requirement is being stipulated. Will it be in the first TIP (Ten Improvement Proposal)?
@@ -26,6 +21,10 @@ The bodies of the Association are:
   2. the Governance Committee
   3. other bodies, as determined by the General Assembly or the Governance Committee
   4. the auditors, if required
+
+This Venn diagram shows how the different bodies and their membership are related:
+
+![Member-Venn](https://github.com/ten-protocol/foundation/assets/24224467/11e92cab-e5b3-4d47-82ad-103737cf581c)
 
 ### The General Assembly
 The General Assembly is the highest authority in a Swiss association. As such, changes to the powers of the General Assembly is the most burdensome therefore changes have to be considered very carefully and changes are made thoughtfully. Generally, the General Assembly is repsonsible for adopting and amending the articles and regulations which define how the Association operates. They can also elect and dismiss members of the Governance Committee.  
