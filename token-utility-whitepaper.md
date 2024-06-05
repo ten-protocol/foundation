@@ -15,12 +15,12 @@ Other major Layer 2 solutions have opted for a pragmatic approach where they hav
 
 ## Token Supply
 
-$TEN is issued by the TEN Network Association, a not-for-profit association inagurated in Switzerland. The initial token supply is 1,000,000,000 $TEN. There is no minting or burning in the TEN protocol design.
+$TEN is issued by the TEN Network Association, a not-for-profit association inaugurated in Switzerland. The initial token supply is 1,000,000,000 $TEN. There is no minting or burning in the TEN protocol design.
 
 ## Rewards
 There are three types of node rewards with TEN: a reward for being an active node and taking part in the lottery to select which node will submit a rollup; a reward for submitting a rollup to the Layer 1; a reward for making a successful challenge to an inaccurate rollup, for example transactions are missing or in the wrong order. During the bootstrapping phase rewards will be made in ETH and the reward will be limited to those nodes which are verifying the accuracy of the signed list of transaction hashes generated.
 
-If a node finds a discrepancy with the rollup published on the Layer 1 network, it can post a challenge including the offending rollup to the Layer 1 network. The management contract will inspect this challenge. If successful during the bootstrapping phase, a reward in ETH is given to the challenging node. The value of the reward is greater than the gas cost of posting the challenge to incentivise prompt discovery of issues. Additionally the stake of the node which introduced the discrepency will be slashed with the entire stake returning to the Community Reserve.
+If a node finds a discrepancy with the rollup published on the Layer 1 network, it can post a challenge including the offending rollup to the Layer 1 network. The management contract will inspect this challenge. If successful during the bootstrapping phase, a reward in ETH is given to the challenging node. The value of the reward is greater than the gas cost of posting the challenge to incentivise prompt discovery of issues. Additionally the stake of the node which introduced the discrepancy will be slashed with the entire stake returning to the Community Reserve.
 
 ## Token Allocation
 
@@ -54,7 +54,7 @@ Over the course of TEN’s lifetime there have been and will be specific experti
 ## Token Emission
 Token unlocking periods have been designed to strike a balance between allowing utility from the get-go and encouraging continued high-quality development and commitment to the TEN ecosystem over a number of years.
 
-Tokens distributed to the Contributor Community and partially unlock at TGE to allow participation in TEN as early as possible without applying downward pressure and making it difficult for others to participate through token onwership.  
+Tokens distributed to the Contributor Community and partially unlock at TGE to allow participation in TEN as early as possible without applying downward pressure and making it difficult for others to participate through token ownership.  
 
 Tokens distributed to the Community Reserve are unlocked on a schedule designed to provide early access to the tokens required to execute on their plans, for example, run TEN hackathons and raise awareness amongst the developer community.
 
