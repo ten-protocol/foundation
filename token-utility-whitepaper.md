@@ -67,7 +67,6 @@ Tokens distributed to Investors and the Core Team are initially locked up follow
 |-----------------------|--------------|-----------------|-----------------------------|
 | Contributor Community | 5            | 0 months        | 7 months                    |
 | Community Reserve     | 1            | 0 months        | 90 months                   |
-| Pre-seed investors    | 0            | 6 months        | 144 months                  |
 | Seed investors        | 5            | 2 months        | 18 months                   |
 | Strategic investors   | 5            | 4 months        | 24 months                   |
 | Strategic2 investors  | 5            | 5 months        | 24 months                   |
