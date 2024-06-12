@@ -65,13 +65,13 @@ Tokens distributed to Investors and the Core Team are initially locked up follow
 
 | RECIPIENT             | TGE UNLOCK % | UNLOCK CLIFF    | TOTAL VESTING PERIOD        |
 |-----------------------|--------------|-----------------|-----------------------------|
-| Contributor Community | 5            | 0 months        | 7 months                    |
-| Community Reserve     | 1            | 0 months        | 90 months                   |
-| Seed investors        | 5            | 2 months        | 18 months                   |
+| Community Contributors| 5            | 0 months        | 12 months                   |
+| Community Reserve     | 10           | 0 months        | 54 months                   |
+| Seed investors        | 5            | 2 months        | 24 months                   |
 | Strategic investors   | 5            | 4 months        | 24 months                   |
 | Strategic2 investors  | 5            | 5 months        | 24 months                   |
-| Core Team             | 0            | 7 months        | 42 months                   |
-| Service Providers     | 0            | 7 months        | 42 months                   |
+| Core Team             | 0            | 6 months        | 48 months                   |
+| Service Providers     | 0            | 7 months        | 48 months                   |
 
 
 
