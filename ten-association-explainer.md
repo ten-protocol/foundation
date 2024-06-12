@@ -23,24 +23,20 @@ To be eligible to vote, you must be a member of the Association and you must hol
 
 ## Association Structure
 The bodies of the Association are:
-  1. the General Assembly
-  2. the Governance Committee
-  3. other bodies, as determined by the General Assembly or the Governance Committee
-  4. the auditors, if required
+  1. General Assembly
+  2. TEN Governance
+  3. Board
+  4. other bodies, as determined by the General Assembly or TEN Governance
+  5. the auditors, if required
 
 This Venn diagram shows how the different bodies and their membership are related:
 
-![Member-Venn](https://github.com/ten-protocol/foundation/assets/24224467/11e92cab-e5b3-4d47-82ad-103737cf581c)
+![Member-Venn](https://github.com/ten-protocol/foundation/blob/main/assets/Venn.svg))
 
 ### The General Assembly
 The General Assembly is the highest authority in a Swiss association. As such, changes to the powers of the General Assembly is the most burdensome therefore changes have to be considered very carefully and changes are made thoughtfully. Generally, the General Assembly is repsonsible for adopting and amending the articles and regulations which define how the Association operates. They can also elect and dismiss members of the Governance Committee.  
 
 Meetings of the General Assembly are called at least 20 days in advance and all members are invited. Motions to be submitted for discussion at the meeting within 5 days after the invitation notice however they require support from at least 20% of the members to be accepted.
-
-### The Governance Committee
-The Governance Committee is accountable to the General Assembly and, by extension, to all the members of the association. The Governance Committee is responsible for the day-to-day management and administration of the Association. This includes implementing the decisions of the General Assembly, overseeing the Association's activities, managing finances, ensuring compliance with legal and statutory requirements, and establishing new bodies or committees. The Governance Committee's actions are subject to review and approval by the General Assembly, ensuring that the Committee acts in the best interests of the association and its members.
-
-The Governance Committee, at a minimum, will be composed of the Association's president and two other members. The maximum number of members is nine. The president is a member of the Governance Committee eleceted to preside over the Governance Committee.
 
 # Appendix
 ## Relevant Swiss Civil Code
