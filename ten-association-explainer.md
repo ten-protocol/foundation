@@ -1,19 +1,25 @@
-# Ten Network Association - An Explainer
-This document attempts to explain in simple terms what the Ten Association is and why it exists.
+# TEN Network Association - A Brief Explainer
+This document attempts to explain in simple terms what the TEN Association is and why it exists.
 
 ## The Association
-The Ten Network Association is an independent legal entity with legal capacity. It is a not-for-protfit organisation and does not pursue commercial purposes. It is governed by Swiss law. Its duration is unlimited. The official language of the association is English.  
-The registered address office and administration is: TBC, Zug, Switzerland.  
-The purpose of the Association is to directly or indirectly further the growth and development of the open-source Ten software protocol and the surrounding community as well as ecosystem. To serve this purpose, the Association plans and implements initiatives, including participation in initiatives with other organisations, for example, by providing financial grants.
+The TEN Network Association ("Association") is an independent legal entity with legal capacity. It is a not-for-protfit organisation and does not pursue commercial purposes. It is governed by Swiss law. Its duration is unlimited. The official language of the association is English.  
+The registered address office and administration is: Zug, Switzerland.  
+The purpose of the Association is to directly or indirectly further the growth and development of the open-source TEN software protocol and the surrounding community as well as ecosystem. To serve this purpose, the Association plans and implements initiatives, including participation in initiatives with other organisations, for example, by providing financial grants.
 
-## Membership
+## TEN Governance (DAO)
+Members of the TEN ecosystem who want to be part of TEN's advancement can submit TEN Improvement Proposals, or TIPs. TIPs form part of the decision-making process for TEN through a combination of General Assembly votes and decentralized governance mechanisms using TEN tokens.
+
+## TEN Governance Voting
+To be eligible to vote, you must hold at least 1 TEN token for at least 30 days. This prevents flash loan attacks on the Association.
+
+## Association Membership
 There are two types of member: Founding Member (members present at the inauguration of the Association or designated by the Governance Committee within 1 month of inauguration) and Ordinary Member. Anyone can apply to the Governance Committee to become a member. Membership is not automatically granted for token holders. There is no membership fee and members may resign from the Association at any time, provided that they notify the Governance Committee at least 30 days in advance.
 
 Members can be expelled by the Governance Committee following a majority vote by the General Assembly if a member is in breach of any the Association's regulations or if the member engages in behaviour which is detrimental to the interests of the Association.  
 
 ## Voting
 Each ordinary member has one vote and each founding member has two votes.  
-To be eligible to vote, you must be a member of the Association and you must hold at least 1000 TEN tokens << TODO: unclear where this requirement is being stipulated. Will it be in the first TIP (Ten Improvement Proposal)?
+To be eligible to vote, you must be a member of the Association and you must hold at least 1 TEN token for 30 days.
 
 ## Association Structure
 The bodies of the Association are:
