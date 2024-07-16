@@ -1,4 +1,4 @@
-# Token Utility Whitepaper - v3.0
+# Token Utility Whitepaper - v3.1
 
 ## Introduction 
 A token economy is non-trivial and continues to be an area of much research and debate in the Web3 community. This proposal document is just that, a proposal which is intended to deliver a viable starting point for a TEN token economy. The economic model is expected to evolve over the lifetime of TEN via governance proposals.
