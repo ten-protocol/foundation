@@ -61,7 +61,7 @@ Tokens distributed to the Community Reserve are unlocked on a schedule designed 
 Tokens distributed to Investors and the Core Team are initially locked up followed by multi-year unlocks to keep team and investor sentiment high, encourage long term focus in their investment and clearly demonstrate their commitment to the success of TEN.
 
 
-### Token Unlocking Schedule
+### Proposed Token Unlocking Schedule
 
 | RECIPIENT             | TGE UNLOCK % | UNLOCK CLIFF    | TOTAL VESTING PERIOD        |
 |-----------------------|--------------|-----------------|-----------------------------|
