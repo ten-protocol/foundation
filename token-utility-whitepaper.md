@@ -1,4 +1,4 @@
-# Token Utility Whitepaper - v3.2
+# Token Utility Whitepaper - v3.3
 
 ## Introduction 
 A token economy is non-trivial and continues to be an area of much research and debate in the Web3 community. This proposal document is just that, a proposal which is intended to deliver a viable starting point for a TEN token economy. The economic model is expected to evolve over the lifetime of TEN via governance proposals voted on by the TEN DAO.
@@ -28,8 +28,8 @@ The allocations of $TEN aim to reward ongoing participation in the TEN Network a
 
 | RECIPIENT             | TOKEN AMOUNT   | ALLOCATION % |
 |-----------------------|----------------|--------------|
-| Community Airdrop     | 22,500,000     | 2.25         |
-| Community Reserve     | 409,500,000    | 40.95        |
+| Community Airdrop     | 50,000,000     | 5.00         |
+| Community Reserve     | 382,000,000    | 38.20        |
 | Investors             | 396,200,000    | 39.62        |
 | Early Contributors    | 171,800,000    | 17.18        |
 
@@ -59,17 +59,6 @@ Tokens distributed to the Community Reserve are unlocked on a schedule designed 
 
 Tokens distributed to Investors and Early Contributors are initially locked followed by multi-year unlocks to keep engagement and sentiment high, encourage long term focus and clearly demonstrate their commitment to the success of TEN.
 
-
-### Proposed Token Unlocking Schedule
-
-| RECIPIENT             | TGE UNLOCK % | UNLOCK CLIFF    | TOTAL VESTING PERIOD        |
-|-----------------------|--------------|-----------------|-----------------------------|
-| Community Airdrop     | 5            | 0 months        | 12 months                   |
-| Community Reserve     | 10           | 0 months        | 54 months                   |
-| Seed investors        | 5            | 2 months        | 24 months                   |
-| Strategic investors   | 5            | 4 months        | 24 months                   |
-| Strategic2 investors  | 5            | 5 months        | 24 months                   |
-| Early Contributors    | 0            | 6 months        | 48 months                   |
 
 
 
